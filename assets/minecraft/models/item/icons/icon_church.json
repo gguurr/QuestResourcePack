@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/icon_church0"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 6.5],
+			"to": [16, 15.75, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 13, 14.5]},
+			"faces": {
+				"north": {"uv": [3.111, 3.555, 13.332, 13.526], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 15.75], "texture": "#missing"},
+				"south": {"uv": [3.111, 3.555, 13.332, 13.526], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 15.75], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 1], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"translation": [0, 0.25, 0],
+			"scale": [0.95, 0.95, 0.95]
+		}
+	}
+}

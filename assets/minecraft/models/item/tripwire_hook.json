@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/tripwire_hook"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/keys/fire_key"},
+		{"predicate": {"custom_model_data":2}, "model": "item/keys/ice_key"},
+		{"predicate": {"custom_model_data":3}, "model": "item/keys/jungle_key"},
+		{"predicate": {"custom_model_data":4}, "model": "item/keys/spooky_key"},
+		{"predicate": {"custom_model_data":5}, "model": "item/keys/water_key"},
+		{"predicate": {"custom_model_data":6}, "model": "item/keys/air_key"}
+	]
+}

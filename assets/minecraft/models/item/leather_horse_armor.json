@@ -1,0 +1,752 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_horse_armor"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "modelengine:grindylownew/grindylow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "modelengine:grindylownew/headbody"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "modelengine:grindylownew/mouth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "modelengine:grindylownew/lbhtentacle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "modelengine:grindylownew/toplbh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "modelengine:grindylownew/bottomlbh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "modelengine:grindylownew/lshtentacle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "modelengine:grindylownew/rbhtentacle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "modelengine:grindylownew/toprbh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "modelengine:grindylownew/bottomrbh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "modelengine:grindylownew/rshtentacl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "modelengine:grindylownew/rightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "modelengine:grindylownew/topra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "modelengine:grindylownew/bottomra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "modelengine:grindylownew/leftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "modelengine:grindylownew/topla"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "modelengine:grindylownew/bottomla"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "modelengine:grindylownew/tentacles"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "modelengine:grindylownew/lt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "modelengine:grindylownew/ltm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "modelengine:grindylownew/ltr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "modelengine:grindylownew/topltr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "modelengine:grindylownew/middleltr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "modelengine:grindylownew/ltl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "modelengine:grindylownew/topltl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "modelengine:grindylownew/middleltl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "modelengine:grindylownew/bt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "modelengine:grindylownew/btm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "modelengine:grindylownew/btr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "modelengine:grindylownew/topbtr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "modelengine:grindylownew/middlebtr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "modelengine:grindylownew/btl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "modelengine:grindylownew/topbtl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "modelengine:grindylownew/middlebtl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "modelengine:grindylownew/rt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "modelengine:grindylownew/rtl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "modelengine:grindylownew/toprtl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "modelengine:grindylownew/middlertl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "modelengine:grindylownew/rtm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "modelengine:grindylownew/rtr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "modelengine:grindylownew/toprtr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "modelengine:grindylownew/middlertr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "modelengine:grindylownew/ft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "modelengine:grindylownew/ftm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "modelengine:grindylownew/ftl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "modelengine:grindylownew/topftl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "modelengine:grindylownew/middleftl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "modelengine:grindylownew/ftr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "modelengine:grindylownew/topftr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "modelengine:grindylownew/middleftr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "modelengine:ifrit/ifrit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "modelengine:ifrit/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "modelengine:ifrit/middlebody"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "modelengine:ifrit/upperbody"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "modelengine:ifrit/shoulderla"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "modelengine:ifrit/armleft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "modelengine:ifrit/albottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "modelengine:ifrit/alhand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "modelengine:ifrit/alf1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "modelengine:ifrit/alf4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "modelengine:ifrit/alf3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "modelengine:ifrit/alf2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "modelengine:ifrit/shoulderra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "modelengine:ifrit/armright"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "modelengine:ifrit/arbottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "modelengine:ifrit/arhand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "modelengine:ifrit/arf1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "modelengine:ifrit/arf4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "modelengine:ifrit/arf3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "modelengine:ifrit/arf2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "modelengine:ifrit/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "modelengine:ifrit/mouth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "modelengine:ifrit/legright"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "modelengine:ifrit/rlbottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75
+      },
+      "model": "modelengine:ifrit/legleft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76
+      },
+      "model": "modelengine:ifrit/llbottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77
+      },
+      "model": "modelengine:cherufe/full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78
+      },
+      "model": "modelengine:cherufe/brleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79
+      },
+      "model": "modelengine:cherufe/frleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80
+      },
+      "model": "modelengine:cherufe/flleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 81
+      },
+      "model": "modelengine:cherufe/blleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "modelengine:cherufe/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83
+      },
+      "model": "modelengine:cherufe/mouth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "modelengine:cherufe/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85
+      },
+      "model": "modelengine:cherufe/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 86
+      },
+      "model": "modelengine:cherufe/bottomtail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 87
+      },
+      "model": "modelengine:deer/deer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88
+      },
+      "model": "modelengine:deer/leg_backleft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 89
+      },
+      "model": "modelengine:deer/leg_backright"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90
+      },
+      "model": "modelengine:deer/leg_frontright"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 91
+      },
+      "model": "modelengine:deer/leg_frontleft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 92
+      },
+      "model": "modelengine:deer/bodyfull"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 93
+      },
+      "model": "modelengine:deer/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94
+      },
+      "model": "modelengine:deer/headfull"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 95
+      },
+      "model": "modelengine:deer/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 96
+      },
+      "model": "modelengine:deer/ear_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 97
+      },
+      "model": "modelengine:deer/ear_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 98
+      },
+      "model": "modelengine:deer/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 99
+      },
+      "model": "modelengine:golem/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "modelengine:golem/legfl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "modelengine:golem/legfr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "modelengine:golem/leghr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "modelengine:golem/leghl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "modelengine:golem/legrrrr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "modelengine:golem/legllll"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "modelengine:golem/kneel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "modelengine:golem/tentacle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "modelengine:golem/ass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "modelengine:golem/tentacle2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110
+      },
+      "model": "modelengine:golem/kneer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "modelengine:golem/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "modelengine:golem/bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "modelengine:fire_salamander/full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 114
+      },
+      "model": "modelengine:fire_salamander/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 115
+      },
+      "model": "modelengine:fire_salamander/eye1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116
+      },
+      "model": "modelengine:fire_salamander/eye2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 117
+      },
+      "model": "modelengine:fire_salamander/tounge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118
+      },
+      "model": "modelengine:fire_salamander/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 119
+      },
+      "model": "modelengine:fire_salamander/frarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120
+      },
+      "model": "modelengine:fire_salamander/flarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 121
+      },
+      "model": "modelengine:fire_salamander/blarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 122
+      },
+      "model": "modelengine:fire_salamander/brarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 123
+      },
+      "model": "modelengine:fire_salamander/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 124
+      },
+      "model": "modelengine:fire_salamander/bottomtail"
+    }
+  ]
+}

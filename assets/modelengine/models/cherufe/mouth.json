@@ -1,0 +1,300 @@
+{
+  "file_name": "mouth",
+  "texture_size": [
+    128,
+    128
+  ],
+  "textures": {
+    "layer0": "modelengine:entity/cherufe"
+  },
+  "elements": [
+    {
+      "name": "mouth_0",
+      "from": [
+        5.254328,
+        8.196908,
+        5.225
+      ],
+      "to": [
+        5.854328,
+        9.396908,
+        8.525
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "z",
+        "origin": [
+          8.00615,
+          7.621088,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            14.75,
+            12.75,
+            10.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            10.75,
+            12.75,
+            14.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            10.75,
+            12.75,
+            14.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            10.75,
+            12.75,
+            14.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            10.75,
+            12.75,
+            14.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            10.75,
+            12.75,
+            14.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "mouth_1",
+      "from": [
+        5.225,
+        7.48916,
+        4.764452
+      ],
+      "to": [
+        10.775,
+        8.23916,
+        8.514452
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "x",
+        "origin": [
+          8.00615,
+          7.621088,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            16.0,
+            0.0,
+            0.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            4.5,
+            0.25,
+            5.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            6.75,
+            0.0,
+            12.5,
+            0.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            6.5,
+            0.0,
+            12.75,
+            4.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            3.75,
+            4.5,
+            4.0,
+            5.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "mouth_2",
+      "from": [
+        10.163648,
+        8.19926,
+        5.225
+      ],
+      "to": [
+        10.763647,
+        9.39926,
+        8.525
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "z",
+        "origin": [
+          8.00615,
+          7.621088,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            14.75,
+            12.75,
+            10.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            10.75,
+            12.75,
+            14.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            10.75,
+            12.75,
+            14.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            10.75,
+            12.75,
+            14.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            10.75,
+            12.75,
+            14.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            10.75,
+            12.75,
+            14.75,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        -6.4,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/tinted_cross",
+	"textures": {
+		"0": "block/sage0",
+		"1": "block/sage1",
+		"particle": "block/sage0"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 1],
+			"to": [8, 16.5, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.971, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"west": {"uv": [0, 0, 15.971, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#missing"}
+			}
+		},
+		{
+			"from": [0, 0, 7.75],
+			"to": [16, 16.5, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"south": {"uv": [0, 0, 15.971, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 15.971, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-35, 70, 23],
+			"translation": [2, 1.5, -2.25],
+			"scale": [1.04, 1, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [2, -78, 25],
+			"translation": [1.25, 1.5, -2.75]
+		},
+		"ground": {
+			"translation": [0.75, 5.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [-2, 18, 20],
+			"translation": [0, -0.25, 0]
+		},
+		"head": {
+			"translation": [0, -30, -0.75],
+			"scale": [1.96, 1.96, 1.96]
+		},
+		"fixed": {
+			"rotation": [-16, -20, -16],
+			"translation": [-0.25, -0.25, -1.5]
+		}
+	}
+}
