@@ -1,0 +1,6 @@
+{
+  "parent": "majesty/renders/gui_only",
+  "textures": {
+    "layer0": "majesty/slots/chestplate"
+  }
+}

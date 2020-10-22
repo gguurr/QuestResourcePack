@@ -1,0 +1,11 @@
+{
+  "parent": "majesty/renders/gui_only",
+  "textures": {
+    "layer0": "majesty/slots/locked"
+  },
+  "display": {
+    "gui": {
+      "scale": [1, 1, 1]
+    }
+  }
+}

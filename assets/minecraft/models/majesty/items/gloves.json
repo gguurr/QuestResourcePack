@@ -1,0 +1,6 @@
+{
+  "parent": "majesty/renders/gui_and_third_person",
+  "textures": {
+    "layer0": "majesty/items/gloves"
+  }
+}
