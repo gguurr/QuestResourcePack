@@ -6,6 +6,7 @@
 		"3": "block/icon_roads2",
 		"particle": "block/icon_roads1"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 0, 6.5],

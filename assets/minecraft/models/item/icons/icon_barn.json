@@ -6,6 +6,7 @@
 		"3": "block/icon_barn1",
 		"particle": "block/icon_barn2"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 0, 6.5],

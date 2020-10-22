@@ -5,6 +5,7 @@
 		"2": "block/icon_inn1",
 		"particle": "block/icon_inn1"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 0, 6.5],

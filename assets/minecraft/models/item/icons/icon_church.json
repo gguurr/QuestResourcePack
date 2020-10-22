@@ -3,6 +3,7 @@
 	"textures": {
 		"1": "block/icon_church0"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 0, 6.5],

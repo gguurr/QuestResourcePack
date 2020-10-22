@@ -5,6 +5,7 @@
 		"2": "block/icon_pen1",
 		"particle": "block/icon_pen1"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 0, 6.5],

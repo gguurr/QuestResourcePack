@@ -4,6 +4,7 @@
 		"1": "block/icon_bank0",
 		"3": "block/icon_bank1"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 0, 6.5],

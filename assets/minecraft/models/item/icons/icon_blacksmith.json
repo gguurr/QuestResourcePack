@@ -5,6 +5,7 @@
 		"4": "block/icon_blacksmith1",
 		"6": "block/icon_blacksmith2"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 0, 6.5],

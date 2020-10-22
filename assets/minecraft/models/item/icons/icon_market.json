@@ -4,6 +4,7 @@
 		"1": "block/icon_market0",
 		"3": "block/jungle_key0"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 0, 6.5],

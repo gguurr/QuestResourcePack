@@ -5,6 +5,7 @@
 		"2": "block/icon_mill1",
 		"particle": "block/icon_mill1"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 0, 6.5],
