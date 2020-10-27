@@ -1,0 +1,2904 @@
+{
+  "file_name": "trout",
+  "texture_size": [
+    8,
+    8
+  ],
+  "textures": {
+    "layer0": "modelengine:entity/trout"
+  },
+  "elements": [
+    {
+      "name": "trout_0",
+      "from": [
+        7.925,
+        8.045606,
+        9.939867
+      ],
+      "to": [
+        8.075,
+        8.570606,
+        10.089867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.5,
+            0.5,
+            0.0,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.5,
+            0.5,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.5,
+            3.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_1",
+      "from": [
+        7.925,
+        7.9706063,
+        9.564867
+      ],
+      "to": [
+        8.075,
+        8.645606,
+        9.939867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.5,
+            1.25,
+            0.0,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            1.25,
+            0.5,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.5,
+            3.75,
+            2.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_2",
+      "from": [
+        7.925,
+        7.9706063,
+        5.9648657
+      ],
+      "to": [
+        8.075,
+        8.645606,
+        6.4898663
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0.0,
+            1.75,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.5,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.5,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            0.5,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.5,
+            4.25,
+            2.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_3",
+      "from": [
+        7.85,
+        7.9706063,
+        9.414866
+      ],
+      "to": [
+        7.925,
+        8.645606,
+        9.789866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            1.25,
+            0.25,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0.0,
+            1.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.25,
+            1.25,
+            0.0,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            0.0,
+            1.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_4",
+      "from": [
+        7.85,
+        7.9706063,
+        6.114866
+      ],
+      "to": [
+        7.925,
+        8.645606,
+        6.639866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.75,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.376,
+            3.876,
+            4.126,
+            6.126
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_5",
+      "from": [
+        8.075,
+        7.9706063,
+        9.414866
+      ],
+      "to": [
+        8.15,
+        8.645606,
+        9.789866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            1.25,
+            0.0,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            1.25,
+            0.25,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.5,
+            3.75,
+            2.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_6",
+      "from": [
+        8.075,
+        7.9706063,
+        6.114866
+      ],
+      "to": [
+        8.15,
+        8.645606,
+        6.639866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0.0,
+            1.75,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            0.0,
+            1.75,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_7",
+      "from": [
+        7.625,
+        8.420606,
+        6.789866
+      ],
+      "to": [
+        8.375,
+        8.570606,
+        6.939866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            10.876,
+            0.376,
+            13.376,
+            0.876
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            11.376,
+            0.376,
+            10.876,
+            0.876
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            13.376,
+            0.376,
+            10.876,
+            0.876
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            13.376,
+            0.376,
+            10.876,
+            0.876
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            13.376,
+            0.376,
+            10.876,
+            0.876
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            11.376,
+            0.376,
+            10.876,
+            0.876
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_8",
+      "from": [
+        7.775,
+        7.9706063,
+        6.414866
+      ],
+      "to": [
+        7.85,
+        8.645606,
+        6.939866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.75,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            3.876,
+            1.5,
+            5.626,
+            3.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_9",
+      "from": [
+        8.15,
+        7.9706063,
+        6.414866
+      ],
+      "to": [
+        8.225,
+        8.645606,
+        6.939866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0.0,
+            1.75,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            0.0,
+            1.75,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_10",
+      "from": [
+        8.15,
+        7.9706063,
+        8.514866
+      ],
+      "to": [
+        8.225,
+        8.645606,
+        9.564867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            3.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0.0,
+            3.5,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            3.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.5,
+            6.0,
+            2.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_11",
+      "from": [
+        7.775,
+        7.9706063,
+        8.514866
+      ],
+      "to": [
+        7.85,
+        8.645606,
+        9.564867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            3.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            3.5,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            3.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            3.5,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_12",
+      "from": [
+        7.7,
+        7.9706063,
+        6.8648663
+      ],
+      "to": [
+        7.775,
+        8.645606,
+        8.964867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            7.0,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.5,
+            9.5,
+            2.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_13",
+      "from": [
+        8.225,
+        7.9706063,
+        6.8648663
+      ],
+      "to": [
+        8.3,
+        8.645606,
+        8.964867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0.0,
+            7.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.5,
+            9.5,
+            2.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_14",
+      "from": [
+        7.925,
+        7.820606,
+        9.414866
+      ],
+      "to": [
+        8.075,
+        8.795606,
+        9.789866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.5,
+            1.25,
+            0.0,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.25,
+            0.0,
+            0.0,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            1.25,
+            0.5,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.5,
+            3.75,
+            3.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_15",
+      "from": [
+        7.925,
+        7.820606,
+        6.114866
+      ],
+      "to": [
+        8.075,
+        8.795606,
+        6.639866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0.0,
+            1.75,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.5,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.5,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            0.5,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            0.0,
+            1.75,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_16",
+      "from": [
+        7.85,
+        7.820606,
+        6.414866
+      ],
+      "to": [
+        7.925,
+        8.795606,
+        6.939866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.75,
+            0.0,
+            0.0,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            3.626,
+            4.376,
+            5.376,
+            7.626
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_17",
+      "from": [
+        8.075,
+        7.820606,
+        6.414866
+      ],
+      "to": [
+        8.15,
+        8.795606,
+        6.939866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0.0,
+            1.75,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            3.626,
+            4.376,
+            5.376,
+            7.626
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_18",
+      "from": [
+        8.075,
+        7.820606,
+        8.514866
+      ],
+      "to": [
+        8.15,
+        8.795606,
+        9.564867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            3.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            4.25,
+            4.126,
+            7.75,
+            7.376
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            3.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            2.0,
+            6.0,
+            5.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_19",
+      "from": [
+        7.85,
+        7.820606,
+        8.514866
+      ],
+      "to": [
+        7.925,
+        8.795606,
+        9.564867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            3.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            4.25,
+            4.126,
+            7.75,
+            7.376
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            3.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            2.0,
+            6.0,
+            5.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_20",
+      "from": [
+        7.775,
+        7.820606,
+        6.8648663
+      ],
+      "to": [
+        7.85,
+        8.795606,
+        8.964867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            7.0,
+            0.0,
+            0.0,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            12.126,
+            0.75,
+            5.1260004,
+            4.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_21",
+      "from": [
+        8.15,
+        7.820606,
+        6.8648663
+      ],
+      "to": [
+        8.225,
+        8.795606,
+        8.964867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            3.876,
+            1.5,
+            10.875999,
+            4.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            3.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            4.75,
+            1.376,
+            11.75,
+            4.626
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_22",
+      "from": [
+        7.925,
+        7.5956063,
+        6.414866
+      ],
+      "to": [
+        8.075,
+        8.945606,
+        6.939866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            0.5,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.75,
+            0.0,
+            0.0,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            1.75,
+            0.0,
+            0.0,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_23",
+      "from": [
+        7.925,
+        7.5956063,
+        8.889866
+      ],
+      "to": [
+        8.075,
+        8.945606,
+        9.564867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            0.5,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            2.25,
+            0.0,
+            0.0,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            2.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.5,
+            4.75,
+            5.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_24",
+      "from": [
+        7.85,
+        7.5956063,
+        6.8648663
+      ],
+      "to": [
+        7.925,
+        8.945606,
+        8.964867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            7.0,
+            0.0,
+            0.0,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.0,
+            0.0,
+            0.0,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_25",
+      "from": [
+        8.075,
+        7.5956063,
+        6.8648663
+      ],
+      "to": [
+        8.15,
+        8.945606,
+        8.964867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.25,
+            0.0,
+            0.0,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.0,
+            2.25,
+            8.0,
+            6.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            0.25,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.5,
+            9.5,
+            5.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_26",
+      "from": [
+        7.925,
+        7.370606,
+        6.8648663
+      ],
+      "to": [
+        8.075,
+        9.095606,
+        8.964867
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0.0,
+            7.0,
+            5.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.5,
+            5.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.5,
+            5.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            0.5,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.126,
+            0.75,
+            7.126,
+            6.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_27",
+      "from": [
+        8.0,
+        8.120605,
+        10.089867
+      ],
+      "to": [
+        8.0,
+        8.495605,
+        10.239866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            0.5,
+            0.0,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            1.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            0.0,
+            1.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            0.0,
+            1.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.5,
+            0.0,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.5,
+            0.0,
+            0.0,
+            1.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_28",
+      "from": [
+        8.0,
+        8.120605,
+        7.689866
+      ],
+      "to": [
+        8.0,
+        9.320606,
+        7.764866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            11.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.25,
+            10.75,
+            1.0,
+            14.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            14.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            14.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            11.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            1.0,
+            10.75,
+            1.25,
+            14.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_29",
+      "from": [
+        8.0,
+        8.345606,
+        7.764866
+      ],
+      "to": [
+        8.0,
+        9.470606,
+        7.839866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            11.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.25,
+            10.75,
+            1.0,
+            14.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            14.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            14.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            11.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            1.0,
+            10.75,
+            1.25,
+            14.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_30",
+      "from": [
+        8.0,
+        8.195606,
+        7.839866
+      ],
+      "to": [
+        8.0,
+        9.545607,
+        7.989866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            11.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.5,
+            10.75,
+            1.0,
+            15.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            15.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            15.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.0,
+            10.75,
+            1.0,
+            11.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            1.0,
+            10.75,
+            1.5,
+            15.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_31",
+      "from": [
+        8.0,
+        6.770606,
+        7.839866
+      ],
+      "to": [
+        8.0,
+        8.195606,
+        7.989866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.0,
+            11.5,
+            1.0,
+            12.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.5,
+            15.5,
+            1.0,
+            10.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.0,
+            11.5,
+            1.0,
+            16.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.126,
+            10.75,
+            1.126,
+            15.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.0,
+            11.5,
+            1.0,
+            12.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.126,
+            11.0,
+            1.6259999,
+            15.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_32",
+      "from": [
+        8.0,
+        6.920606,
+        7.764866
+      ],
+      "to": [
+        8.0,
+        8.120605,
+        7.839866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.0,
+            11.5,
+            1.0,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.0,
+            11.5,
+            1.25,
+            15.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.0,
+            11.5,
+            1.0,
+            15.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.126,
+            10.75,
+            1.126,
+            14.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.0,
+            11.5,
+            1.0,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            1.876,
+            11.0,
+            1.626,
+            15.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "trout_33",
+      "from": [
+        8.0,
+        7.070606,
+        7.689866
+      ],
+      "to": [
+        8.0,
+        8.270606,
+        7.764866
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.0,
+            11.5,
+            1.0,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.0,
+            11.5,
+            1.25,
+            15.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.0,
+            11.5,
+            1.0,
+            15.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.126,
+            10.75,
+            1.126,
+            14.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.0,
+            11.5,
+            1.0,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            1.876,
+            11.0,
+            1.626,
+            15.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        -6.4,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}
