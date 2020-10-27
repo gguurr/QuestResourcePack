@@ -59,6 +59,7 @@
     {"predicate": {"custom_model_data": 24}, "model": "majesty/items/gloves"},
     {"predicate": {"custom_model_data": 25}, "model": "majesty/items/amulet"},
     {"predicate": {"custom_model_data": 26}, "model": "majesty/items/scroll"},
-    {"predicate": {"custom_model_data": 27}, "model": "majesty/slots/extendable"}
+    {"predicate": {"custom_model_data": 27}, "model": "majesty/slots/extendable"},
+    {"predicate": {"custom_model_data": 28}, "model": "majesty/slots/ingot"}
   ]
 }
