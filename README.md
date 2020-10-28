@@ -4,5 +4,6 @@ This is the Repository that houses the Resource pack that we use for the "Quest"
 
 ### Downloading the Resourcepack
 
-Click the __**GREEN CODE BUTTON**__ above and click __**DOWNLOAD ZIP**__. This will download the resourcepack in .zip format.
-Then, just drop it in your resourcepacks/ folder in your Minecraft installation to use/view.
+Clone the repository, into a directory on your computer, then (with git bash installed) run bake_resourcepack_zip.sh.
+
+This will generate a **QuestResourcePack-main.zip** in the root directory of the project.
