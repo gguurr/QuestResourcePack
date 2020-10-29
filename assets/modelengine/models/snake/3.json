@@ -1,91 +1,91 @@
 {
-  "file_name": "alhand",
+  "file_name": "3",
   "texture_size": [
-    128,
-    128
+    8,
+    8
   ],
   "textures": {
-    "layer0": "modelengine:entity/ifrit"
+    "layer0": "modelengine:entity/snake"
   },
   "elements": [
     {
-      "name": "alhand_0",
+      "name": "3_0",
       "from": [
-        6.4938736,
-        4.7064266,
-        11.3528185
+        7.775,
+        7.90625,
+        7.8580337
       ],
       "to": [
-        12.278168,
-        10.795155,
-        17.137112
+        8.225,
+        8.28125,
+        8.758034
       ],
       "rotation": {
-        "angle": 22.5,
-        "axis": "x",
+        "angle": 0.0,
+        "axis": "z",
         "origin": [
-          28.966255,
-          25.517952,
-          7.316972
+          8.0,
+          8.0,
+          8.0
         ]
       },
       "faces": {
         "down": {
           "uv": [
+            1.5,
+            3.0,
             0.0,
-            8.0,
-            0.795625,
-            8.795625
+            0.0
           ],
           "texture": "#layer0",
           "tintindex": 0
         },
         "east": {
           "uv": [
-            2.745375,
-            8.0,
+            3.0,
             0.0,
-            12.346125
+            0.0,
+            1.25
           ],
           "texture": "#layer0",
           "tintindex": 0
         },
         "north": {
           "uv": [
-            2.745375,
-            8.0,
+            1.5,
             0.0,
-            12.346125
+            0.0,
+            1.25
           ],
           "texture": "#layer0",
           "tintindex": 0
         },
         "south": {
           "uv": [
-            2.745375,
-            8.0,
+            1.5,
             0.0,
-            12.346125
+            0.0,
+            1.25
           ],
           "texture": "#layer0",
           "tintindex": 0
         },
         "up": {
           "uv": [
-            2.745375,
-            7.9999995,
             0.0,
-            12.346125
+            3.0,
+            1.5,
+            0.0
           ],
           "texture": "#layer0",
           "tintindex": 0
         },
         "west": {
           "uv": [
-            2.745375,
-            8.0,
+            3.0,
             0.0,
-            12.346125
+            0.0,
+            1.25
           ],
           "texture": "#layer0",
           "tintindex": 0
