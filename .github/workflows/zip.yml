@@ -20,4 +20,4 @@ jobs:
 
         git add -A
         git commit -m "new pack"
-        git push
+        git push --force
