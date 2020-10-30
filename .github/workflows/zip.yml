@@ -18,5 +18,6 @@ jobs:
         git config --global user.name "fishermedders"
         git config --global user.email "fishermedders@gmail.com"
 
-        git add -A git commit -m "new pack"
+        git add -A
+        git commit -m "new pack"
         git push
