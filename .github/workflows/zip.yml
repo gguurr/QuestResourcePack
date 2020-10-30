@@ -7,7 +7,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Modify/add files
-    - uses: actions/checkout@master
+      uses: actions/checkout@master
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
