@@ -1,16 +1,12 @@
-name: Zippity Zip
-on:
-  push:
-  pull_request:
+name: Create Archive
+on: [push]
 jobs:
-  composer-install:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: montudor/action-zip@v0.1.0
-        with:
-          args: zip -qq -r pack.zip ./
-      - uses: actions/upload-artifact@v2
-        with:
-          name: pack.zip
-          path: ./
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@master
+      with:
+        filename: 'release.zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig'
