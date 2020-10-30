@@ -10,11 +10,7 @@ jobs:
       uses: actions/checkout@master
     - name: remove old file from repo
       run: |
-        git config --global user.name "fishermedders"
-        git config --global user.email "fishermedders@gmail.com"
-
-        git rm release.zip
-        git push --force
+        rm release.zip
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
