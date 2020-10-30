@@ -14,6 +14,7 @@ jobs:
         git config --global user.email "fishermedders@gmail.com"
 
         git rm release.zip
+        git push --force
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
@@ -24,6 +25,7 @@ jobs:
         git config --global user.name "fishermedders"
         git config --global user.email "fishermedders@gmail.com"
 
+        git pull
         git add -A
         git commit -m "new pack"
         git push --force
