@@ -4,9 +4,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Modify/add files
     - uses: actions/checkout@master
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
         filename: 'release.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
+    - name: push changes to remote
+      run: |
+        git config --global user.name "fishermedders"
+        git config --global user.email "fishermedders@gmail.com"
+
+        git add -A git commit -m "new pack"
+        git push
