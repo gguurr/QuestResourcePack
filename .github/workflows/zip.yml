@@ -8,8 +8,11 @@ jobs:
       uses: actions/checkout@v2
     - name: Modify/add files
       uses: actions/checkout@master
-    - name: remove old file from repo
+    - name: pull latest and remove old file from repo
       run: |
+        git config --global user.name "fishermedders"
+        git config --global user.email "fishermedders@gmail.com"
+        git pull
         rm -f release.zip
     - name: Archive Release
       uses: thedoctor0/zip-release@master
@@ -18,8 +21,6 @@ jobs:
         exclusions: '*.git* /*node_modules/* .editorconfig'
     - name: push changes to remote
       run: |
-        git config --global user.name "fishermedders"
-        git config --global user.email "fishermedders@gmail.com"
 
         git add -A
         git commit -m "new pack"
