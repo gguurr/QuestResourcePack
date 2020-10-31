@@ -10,7 +10,7 @@ jobs:
       uses: actions/checkout@master
     - name: remove old file from repo
       run: |
-        rm release.zip
+        rm -f release.zip
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
