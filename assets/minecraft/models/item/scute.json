@@ -34,7 +34,6 @@
 		{"predicate": {"custom_model_data":27}, "model": "item/enviorment/wood/pinelog"},
 		{"predicate": {"custom_model_data":28}, "model": "item/enviorment/wood/sprucelog"},
 		{"predicate": {"custom_model_data":29}, "model": "item/enviorment/wood/teakwoodlog"},
-		{"predicate": {"custom_model_data":30}, "model": "item/enviorment/wood/mahoganytree"},
-        	{"predicate": {"custom_model_data":31}, "model": "item/enviorment/ores/grindstone_circle"}
+		{"predicate": {"custom_model_data":30}, "model": "item/enviorment/wood/mahoganytree"}
 	]
 }
