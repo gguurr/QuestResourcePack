@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [2, 2],
 	"textures": {
-		"0": "Mining:blacksmith/bucket2",
-		"1": "blacksmith/bucket0",
-		"2": "blacksmith/bucket1",
-		"particle": "Mining:blacksmith/bucket2"
+		"0": "block/bucket2",
+		"1": "block/bucket0",
+		"2": "block/bucket1",
+		"particle": "block/bucket2"
 	},
 	"elements": [
 		{
