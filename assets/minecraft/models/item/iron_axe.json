@@ -6,7 +6,7 @@
 	},
 	
 	"overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/blacksmith/grindstone_circle"},
+    {"predicate": {"custom_model_data":1}, "model": "item/blacksmith/grindstone_circle_r"},
     {"predicate": {"custom_model_data":2}, "model": "item/blacksmith/water_bucket_empty"},
     {"predicate": {"custom_model_data":3}, "model": "item/blacksmith/water_bucket_full"},
     {"predicate": {"custom_model_data":4}, "model": "item/blacksmith/bellow1"},
