@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/bellow0",
 		"1": "block/bellow1",
-		"2": "block/bellow2",
+		"2": "Relics:block/bellow2",
 		"particle": "block/bellow0"
 	},
 	"elements": [
@@ -361,7 +361,7 @@
 		},
 		{
 			"from": [7.1875, 2.6875, 1.6875],
-			"to": [8.8125, 4.0625, 2.3125],
+			"to": [8.8125, 4.4375, 2.3125],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8.00231, 2.93287, 9.40278]},
 			"faces": {
 				"north": {"uv": [0, 0, 1.625, 0.5], "texture": "#1"},
@@ -1114,6 +1114,40 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [65, 0, 0],
+			"translation": [0, 6, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [65, 0, 0],
+			"translation": [0, 6, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 4.5, -9]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 4.5, -9]
+		},
+		"ground": {
+			"translation": [0, 6, 0]
+		},
+		"gui": {
+			"rotation": [-90, 25, 0],
+			"translation": [0, -0.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, -35.5, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 25, 0],
+			"translation": [0, -0.75, -5.5],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	},
 	"groups": [
 		{
 			"name": "bottom",

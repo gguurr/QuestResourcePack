@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/bellow0",
 		"1": "block/bellow1",
-		"2": "block/bellow2",
+		"2": "Relics:block/bellow2",
 		"particle": "block/bellow0"
 	},
 	"elements": [
@@ -1114,6 +1114,39 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [65, 0, 0],
+			"translation": [0, 6, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [65, 0, 0],
+			"translation": [0, 6, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 6.75, -6]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 6.75, -6]
+		},
+		"ground": {
+			"translation": [0, 1, 0]
+		},
+		"gui": {
+			"rotation": [-90, 25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, -35.75, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 25, 0],
+			"translation": [0, -1.25, -6.5],
+			"scale": [0.85, 0.85, 0.85]
+		}
+	},
 	"groups": [
 		{
 			"name": "bottom",
