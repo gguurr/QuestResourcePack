@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "grindstone_circle:block/grindstone_circle0",
-		"1": "grindstone_circle:block/grindstone_circle1",
-		"particle": "grindstone_circle:block/grindstone_circle0"
+		"0": "block/speed1",
+		"1": "block/grindstone_circle1",
+		"particle": "block/grindstone_circle0"
 	},
 	"elements": [
 		{
