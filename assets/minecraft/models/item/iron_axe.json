@@ -6,11 +6,11 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/blacksmith/grindstone_circle"},
+    {"predicate": {"custom_model_data":1}, "model": "item/blacksmith/grindstone_circle"},
     {"predicate": {"custom_model_data":2}, "model": "item/blacksmith/water_bucket_empty"},
     {"predicate": {"custom_model_data":3}, "model": "item/blacksmith/water_bucket_full"},
     {"predicate": {"custom_model_data":4}, "model": "item/blacksmith/bellow1"},
     {"predicate": {"custom_model_data":5}, "model": "item/blacksmith/bellow2"},
-    {"predicate": {"custom_model_data":6}, "model": "item/blacksmith/bellow3"},    
+    {"predicate": {"custom_model_data":6}, "model": "item/blacksmith/bellow3"}   
 	]
 }
