@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/speed1",
-		"1": "block/grindstone_circle1",
-		"particle": "block/grindstone_circle0"
+		"0": "grindstone_circle:block/grindstone_circle0",
+		"1": "grindstone_circle:block/grindstone_circle1",
+		"particle": "grindstone_circle:block/grindstone_circle0"
 	},
 	"elements": [
 		{
@@ -267,8 +267,9 @@
 			"scale": [0.625, 0.625, 0.625]
 		},
 		"head": {
+			"rotation": [0, 90, 0],
 			"translation": [0, -10.5, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"scale": [2.5, 2.5, 2.5]
 		},
 		"fixed": {
 			"rotation": [0, 0, 90],
