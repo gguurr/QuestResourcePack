@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/bellow0",
 		"1": "block/bellow1",
-		"2": "Relics:block/bellow2",
+		"2": "block/bellow2",
 		"particle": "block/bellow0"
 	},
 	"elements": [
