@@ -17,7 +17,7 @@
 	{"predicate": {"custom_model_data":9}, "model": "item/blacksmith/ingot_chromium"},
 	{"predicate": {"custom_model_data":10}, "model": "item/blacksmith/ingot_copper"},
 	{"predicate": {"custom_model_data":11}, "model": "item/blacksmith/ingot_indium"},
-	{"predicate": {"custom_model_data":12}, "model": "item/blacksmith/ingot_iron"}.
+	{"predicate": {"custom_model_data":12}, "model": "item/blacksmith/ingot_iron"},
 	{"predicate": {"custom_model_data":13}, "model": "item/blacksmith/ingot_nickel"},
 	{"predicate": {"custom_model_data":14}, "model": "item/blacksmith/ingot_titanium"},
 	{"predicate": {"custom_model_data":15}, "model": "item/blacksmith/ingot_tugsten"}
