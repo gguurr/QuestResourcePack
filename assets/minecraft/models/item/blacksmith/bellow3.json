@@ -1213,7 +1213,7 @@
 			"translation": [0, 2.75, 0]
 		},
 		"gui": {
-			"rotation": [-90, 25, 0],
+			"rotation": [11, 137, 0],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
