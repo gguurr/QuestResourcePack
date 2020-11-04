@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "Mining:block/gold1",
-		"2": "Mining:block/gold0",
-		"particle": "Mining:block/gold0"
+		"1": "block/gold1",
+		"2": "block/gold0",
+		"particle": "block/gold0"
 	},
 	"elements": [
 		{
