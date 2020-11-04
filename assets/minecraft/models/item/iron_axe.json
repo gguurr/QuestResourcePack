@@ -21,8 +21,20 @@
 	{"predicate": {"custom_model_data":13}, "model": "item/blacksmith/ingot_nickel"},
 	{"predicate": {"custom_model_data":14}, "model": "item/blacksmith/ingot_titanium"},
 	{"predicate": {"custom_model_data":15}, "model": "item/blacksmith/ingot_tugsten"},
-    {"predicate": {"custom_model_data":16}, "model": "item/blacksmith/grindstone_circle_speed1"},
-    {"predicate": {"custom_model_data":17}, "model": "item/blacksmith/grindstone_circle_speed2"},
-    {"predicate": {"custom_model_data":18}, "model": "item/blacksmith/grindstone_circle_speed3"}
+   	{"predicate": {"custom_model_data":16}, "model": "item/blacksmith/grindstone_circle_speed1"},
+    	{"predicate": {"custom_model_data":17}, "model": "item/blacksmith/grindstone_circle_speed2"},
+    	{"predicate": {"custom_model_data":18}, "model": "item/blacksmith/grindstone_circle_speed3"},
+	{"predicate": {"custom_model_data":19}, "model": "item/blacksmith/boots_item_cold"},
+	{"predicate": {"custom_model_data":20}, "model": "item/blacksmith/boots_item_hot"},
+	{"predicate": {"custom_model_data":21}, "model": "item/blacksmith/chestplate_item_cold"},
+	{"predicate": {"custom_model_data":22}, "model": "item/blacksmith/chestplate_item_hot"},
+	{"predicate": {"custom_model_data":23}, "model": "item/blacksmith/helmet_item_cold"},
+	{"predicate": {"custom_model_data":24}, "model": "item/blacksmith/helmet_item_hot"},
+	{"predicate": {"custom_model_data":25}, "model": "item/blacksmith/legging_item_cold"},
+	{"predicate": {"custom_model_data":26}, "model": "item/blacksmith/legging_item_hot"},
+	{"predicate": {"custom_model_data":27}, "model": "item/blacksmith/robeboots_item"},
+	{"predicate": {"custom_model_data":27}, "model": "item/blacksmith/robechestplate_item"},
+	{"predicate": {"custom_model_data":27}, "model": "item/blacksmith/robehelmet_item"},
+	{"predicate": {"custom_model_data":27}, "model": "item/blacksmith/robeleggings_item"},
 	]
 }
