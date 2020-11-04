@@ -35,6 +35,6 @@
 	{"predicate": {"custom_model_data":27}, "model": "item/blacksmith/robeboots_item"},
 	{"predicate": {"custom_model_data":27}, "model": "item/blacksmith/robechestplate_item"},
 	{"predicate": {"custom_model_data":27}, "model": "item/blacksmith/robehelmet_item"},
-	{"predicate": {"custom_model_data":27}, "model": "item/blacksmith/robeleggings_item"},
+	{"predicate": {"custom_model_data":27}, "model": "item/blacksmith/robeleggings_item"}
 	]
 }
