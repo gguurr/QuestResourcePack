@@ -50,5 +50,9 @@
 	{"predicate": {"custom_model_data":42}, "model": "item/blacksmith/lightchestplate_item"},
 	{"predicate": {"custom_model_data":43}, "model": "item/blacksmith/lightleggings_item"},
 	{"predicate": {"custom_model_data":44}, "model": "item/blacksmith/lightboots_item"},
+	{"predicate": {"custom_model_data":45}, "model": "item/blacksmith/lighthelmet_item_hot"},
+	{"predicate": {"custom_model_data":46}, "model": "item/blacksmith/lightchestplate_item_hot"},
+	{"predicate": {"custom_model_data":47}, "model": "item/blacksmith/lightleggings_item_hot"},
+	{"predicate": {"custom_model_data":48}, "model": "item/blacksmith/lightboots_item_hot"}
 	]
 }
