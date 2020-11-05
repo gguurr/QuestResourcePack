@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/nickel",
+		"1": "block/chromium",
 		"3": "block/empty_ore",
-		"particle": "block/nickel"
+		"particle": "block/chromium"
 	},
 	"elements": [
 		{
