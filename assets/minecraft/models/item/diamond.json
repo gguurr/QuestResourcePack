@@ -5,19 +5,11 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/relics/chalice"},
-		{"predicate": {"custom_model_data":2}, "model": "item/relics/cross"},
-		{"predicate": {"custom_model_data":3}, "model": "item/relics/crown"},
-		{"predicate": {"custom_model_data":4}, "model": "item/relics/diadem"},
-		{"predicate": {"custom_model_data":5}, "model": "item/relics/orb"},
-		{"predicate": {"custom_model_data":6}, "model": "item/relics/statue"},
-		{"predicate": {"custom_model_data":7}, "model": "item/relics/tablet"},
-		{"predicate": {"custom_model_data":8}, "model": "item/relics/tome"},
-		{"predicate": {"custom_model_data":9}, "model": "item/misc/large_golden_chest"},
-		{"predicate": {"custom_model_data":10}, "model": "item/misc/large_golden_chest_open1"},
-		{"predicate": {"custom_model_data":11}, "model": "item/misc/large_golden_chest_open2"},
-		{"predicate": {"custom_model_data":12}, "model": "item/misc/large_golden_chest_open3"},
-		{"predicate": {"custom_model_data":13}, "model": "item/misc/jorange"},
-		{"predicate": {"custom_model_data":14}, "model": "item/misc/kalinoxvillager"}
+		{"predicate": {"custom_model_data":1}, "model": "item/misc/large_golden_chest"},
+		{"predicate": {"custom_model_data":2}, "model": "item/misc/large_golden_chest_open1"},
+		{"predicate": {"custom_model_data":3}, "model": "item/misc/large_golden_chest_open2"},
+		{"predicate": {"custom_model_data":4}, "model": "item/misc/large_golden_chest_open3"},
+		{"predicate": {"custom_model_data":5}, "model": "item/misc/jorange"},
+		{"predicate": {"custom_model_data":6}, "model": "item/misc/kalinoxvillager"}
 	]
 }
