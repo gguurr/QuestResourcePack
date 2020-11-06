@@ -4,7 +4,7 @@
 		"0": "block/chest0",
 		"1": "block/chest1",
 		"2": "block/chest2",
-		"3": "Relics:block/tome0",
+		"3": "block/tome0",
 		"particle": "block/chest0"
 	},
 	"elements": [
