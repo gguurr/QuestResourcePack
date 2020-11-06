@@ -62,6 +62,6 @@
 	{"predicate": {"custom_model_data":54}, "model": "item/blacksmith/nickel_sword"},
 	{"predicate": {"custom_model_data":55}, "model": "item/blacksmith/titanium_sword"},
 	{"predicate": {"custom_model_data":56}, "model": "item/blacksmith/tungstun_sword"},
-	{"predicate": {"custom_model_data":57}, "model": "item/blacksmith/hammer"},
+	{"predicate": {"custom_model_data":57}, "model": "item/blacksmith/hammer"}
 	]
 }
