@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Relics:block/chalice1",
-		"1": "Relics:block/cross0",
-		"particle": "Relics:block/chalice1"
+		"0": "block/chalice1",
+		"1": "block/cross0",
+		"particle": "block/chalice1"
 	},
 	"elements": [
 		{
