@@ -17,6 +17,7 @@
 		{"predicate": {"custom_model_data":10}, "model": "item/misc/large_golden_chest_open1"},
 		{"predicate": {"custom_model_data":11}, "model": "item/misc/large_golden_chest_open2"},
 		{"predicate": {"custom_model_data":12}, "model": "item/misc/large_golden_chest_open3"},
-		{"predicate": {"custom_model_data":13}, "model": "item/misc/jorange"}
+		{"predicate": {"custom_model_data":13}, "model": "item/misc/jorange"},
+		{"predicate": {"custom_model_data":14}, "model": "item/misc/kalinoxvillager"}
 	]
 }
