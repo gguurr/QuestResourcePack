@@ -23,6 +23,14 @@
 		{"predicate": {"custom_model_data":16}, "model": "item/enviorment/wood/pinelog"},
 		{"predicate": {"custom_model_data":17}, "model": "item/enviorment/wood/sprucelog"},
 		{"predicate": {"custom_model_data":18}, "model": "item/enviorment/wood/teakwoodlog"},
-		{"predicate": {"custom_model_data":19}, "model": "item/enviorment/wood/mahoganytree"}
+		{"predicate": {"custom_model_data":19}, "model": "item/enviorment/wood/mahoganytree"},
+		{"predicate": {"custom_model_data":20}, "model": "item/relics/chalice"},
+		{"predicate": {"custom_model_data":20}, "model": "item/relics/cross"},
+		{"predicate": {"custom_model_data":20}, "model": "item/relics/crown"},
+		{"predicate": {"custom_model_data":20}, "model": "item/relics/diadem"},
+		{"predicate": {"custom_model_data":20}, "model": "item/relics/orb"},
+		{"predicate": {"custom_model_data":20}, "model": "item/relics/statue"},
+		{"predicate": {"custom_model_data":20}, "model": "item/relics/tablet"},
+		{"predicate": {"custom_model_data":20}, "model": "item/relics/tome"}	
 	]
 }
