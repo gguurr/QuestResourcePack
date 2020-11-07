@@ -1,0 +1,9 @@
+archeology = emerald
+blacksmith=iron_axe
+carpenter= scute
+crops = rabit hide
+forager = sweet berries
+herbs = rabit hide
+icons = paper
+keys = trip wire
+misc = diamond
