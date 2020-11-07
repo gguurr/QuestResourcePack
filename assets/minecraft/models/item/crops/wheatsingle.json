@@ -3,9 +3,9 @@
 	"parent": "minecraft:block/tinted_cross",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/barley0",
-		"1": "block/barley1",
-		"particle": "block/barley0"
+		"0": "block/wheat0",
+		"1": "block/wheat1",
+		"particle": "block/wheat0"
 	},
 	"elements": [
 		{
