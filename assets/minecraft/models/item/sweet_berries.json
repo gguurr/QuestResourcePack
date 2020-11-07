@@ -16,6 +16,6 @@
     {"predicate": {"custom_model_data":9}, "model": "item/forager/red"},
     {"predicate": {"custom_model_data":10}, "model": "item/forager/violet"},
     {"predicate": {"custom_model_data":11}, "model": "item/forager/white"},
-    {"predicate": {"custom_model_data":12}, "model": "item/forager/yellow"},
+    {"predicate": {"custom_model_data":12}, "model": "item/forager/yellow"}
 	]
 }
