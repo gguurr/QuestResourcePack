@@ -1,0 +1,70 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/tinted_cross",
+	"textures": {
+		"0": "block/anise0",
+		"1": "block/anise1",
+		"particle": "block/anise0"
+	},
+	"elements": [
+		{
+			"from": [2.5, 0, 7.5],
+			"to": [12.5, 12, 7.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8.5, 6, 7.5]},
+			"faces": {
+				"north": {"uv": [2.5, 0.25, 12.471, 15.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"south": {"uv": [3.25, 0.25, 13.971, 15.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#missing"}
+			}
+		},
+		{
+			"from": [2.79289, 0, 8.20711],
+			"to": [12.79289, 12, 8.20711],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.79289, 6, 8.20711]},
+			"faces": {
+				"north": {"uv": [2.25, 0.25, 12.471, 15.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"south": {"uv": [3, 0.25, 14.471, 15.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [-57, 88, 23],
+			"translation": [2, 2.75, -6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-80, 78, 41],
+			"translation": [1.25, 3.5, -5.25]
+		},
+		"ground": {
+			"translation": [0.75, 5.25, 0]
+		},
+		"gui": {
+			"rotation": [4, -90, 0],
+			"translation": [0, 2, 0]
+		},
+		"head": {
+			"translation": [0, -22.75, -1],
+			"scale": [2.46, 2.46, 2.46]
+		},
+		"fixed": {
+			"rotation": [-8, 27, 0],
+			"translation": [0.25, 1.5, -3.25]
+		}
+	}
+}
