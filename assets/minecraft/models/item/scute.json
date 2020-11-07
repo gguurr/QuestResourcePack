@@ -5,15 +5,16 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/enviorment/wood/acacialog"},
-		{"predicate": {"custom_model_data":2}, "model": "item/enviorment/wood/birchlog"},
-		{"predicate": {"custom_model_data":3}, "model": "item/enviorment/wood/cedarlog"},
-		{"predicate": {"custom_model_data":4}, "model": "item/enviorment/wood/darkoaklog"},
-		{"predicate": {"custom_model_data":5}, "model": "item/enviorment/wood/mahoganylog"},
-		{"predicate": {"custom_model_data":6}, "model": "item/enviorment/wood/oaklog"},
-		{"predicate": {"custom_model_data":7}, "model": "item/enviorment/wood/pinelog"},
-		{"predicate": {"custom_model_data":8}, "model": "item/enviorment/wood/sprucelog"},
-		{"predicate": {"custom_model_data":9}, "model": "item/enviorment/wood/teakwoodlog"},
-		{"predicate": {"custom_model_data":10}, "model": "item/enviorment/wood/mahoganytree"},
+		{"predicate": {"custom_model_data":1}, "model": "item/enviorment/carpenter/acacialog"},
+		{"predicate": {"custom_model_data":2}, "model": "item/enviorment/carpenter/birchlog"},
+		{"predicate": {"custom_model_data":3}, "model": "item/enviorment/carpenter/cedarlog"},
+		{"predicate": {"custom_model_data":4}, "model": "item/enviorment/carpenter/darkoaklog"},
+		{"predicate": {"custom_model_data":5}, "model": "item/enviorment/carpenter/mahoganylog"},
+		{"predicate": {"custom_model_data":6}, "model": "item/enviorment/carpenter/oaklog"},
+		{"predicate": {"custom_model_data":7}, "model": "item/enviorment/carpenter/pinelog"},
+		{"predicate": {"custom_model_data":8}, "model": "item/enviorment/carpenter/sprucelog"},
+		{"predicate": {"custom_model_data":9}, "model": "item/enviorment/carpenter/teakwoodlog"},
+		{"predicate": {"custom_model_data":10}, "model": "item/enviorment/carpenter/twig"},
+		{"predicate": {"custom_model_data":11}, "model": "item/enviorment/carpenter/mahoganytree"}
 	]
 }
