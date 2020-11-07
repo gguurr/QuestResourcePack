@@ -5,7 +5,7 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/forager/black"},
+    {"predicate": {"custom_model_data":1}, "model": "item/forager/black"},
     {"predicate": {"custom_model_data":2}, "model": "item/forager/darkblue"},
     {"predicate": {"custom_model_data":3}, "model": "item/forager/empty_bush"},
     {"predicate": {"custom_model_data":4}, "model": "item/forager/green"},
