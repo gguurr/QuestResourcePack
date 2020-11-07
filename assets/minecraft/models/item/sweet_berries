@@ -1,0 +1,21 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/sweet_berries"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/forager/black"},
+    {"predicate": {"custom_model_data":2}, "model": "item/forager/darkblue"},
+    {"predicate": {"custom_model_data":3}, "model": "item/forager/empty_bush"},
+    {"predicate": {"custom_model_data":4}, "model": "item/forager/green"},
+    {"predicate": {"custom_model_data":5}, "model": "item/forager/indigo"},
+    {"predicate": {"custom_model_data":6}, "model": "item/forager/lightblue"},
+    {"predicate": {"custom_model_data":7}, "model": "item/forager/orange"},
+    {"predicate": {"custom_model_data":8}, "model": "item/forager/pink"},
+    {"predicate": {"custom_model_data":9}, "model": "item/forager/red"},
+    {"predicate": {"custom_model_data":10}, "model": "item/forager/violet"},
+    {"predicate": {"custom_model_data":11}, "model": "item/forager/white"},
+    {"predicate": {"custom_model_data":12}, "model": "item/forager/yellow"},
+	]
+}
