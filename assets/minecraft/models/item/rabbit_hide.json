@@ -30,6 +30,6 @@
 		{"predicate": {"custom_model_data":23}, "model": "item/crops/wheatsingle"},
 		{"predicate": {"custom_model_data":24}, "model": "item/crops/wolfsbane"},
 		{"predicate": {"custom_model_data":25}, "model": "item/crops/yeast"},
-	    {"predicate": {"custom_model_data":26}, "model": "item/crops/wormwood"}
+	    	{"predicate": {"custom_model_data":26}, "model": "item/crops/wormwood"}
 	]
 }
