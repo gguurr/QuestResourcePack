@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Pet Berries:block/red0",
-		"particle": "Pet Berries:block/red0"
+		"0": "block/red0",
+		"particle": "block/red0"
 	},
 	"elements": [
 		{
