@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/sword0",
-		"2": "Relics:block/chalice1",
+		"2": "block/chalice1",
 		"3": "block/iron",
 		"particle": "block/sword0"
 	},
