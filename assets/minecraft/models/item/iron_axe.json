@@ -50,8 +50,8 @@
 	{"predicate": {"custom_model_data":42}, "model": "item/blacksmith/nickel_sword"},
 	{"predicate": {"custom_model_data":43}, "model": "item/blacksmith/titanium_sword"},
 	{"predicate": {"custom_model_data":44}, "model": "item/blacksmith/tungsten_sword"},
-	{"predicate": {"custom_model_data":42}, "model": "item/blacksmith/iron_axe"},
-	{"predicate": {"custom_model_data":43}, "model": "item/blacksmith/iron_pickaxe"},
-	{"predicate": {"custom_model_data":44}, "model": "item/blacksmith/iron_shovel"}
+	{"predicate": {"custom_model_data":45}, "model": "item/blacksmith/iron_axe"},
+	{"predicate": {"custom_model_data":46}, "model": "item/blacksmith/iron_pickaxe"},
+	{"predicate": {"custom_model_data":47}, "model": "item/blacksmith/iron_shovel"}
 	]
 }
