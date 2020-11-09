@@ -16,6 +16,6 @@
 		{"predicate": {"custom_model_data":9}, "model": "item/carpenter/teakwoodlog"},
 		{"predicate": {"custom_model_data":10}, "model": "item/carpenter/twig"},
 		{"predicate": {"custom_model_data":11}, "model": "item/carpenter/mahoganytree"},
-		{"predicate": {"custom_model_data":11}, "model": "item/carpenter/iron_axe"}
+		{"predicate": {"custom_model_data":12}, "model": "item/carpenter/iron_axe"}
 	]
 }
