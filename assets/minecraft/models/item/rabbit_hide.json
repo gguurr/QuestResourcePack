@@ -22,6 +22,6 @@
 		{"predicate": {"custom_model_data":14}, "model": "item/crops/yeast"},
 		{"predicate": {"custom_model_data":15}, "model": "item/crops/seeds"},
 		{"predicate": {"custom_model_data":16}, "model": "item/crops/grain"},
-		{"predicate": {"custom_model_data":17}, "model": "item/crops/iron_pickaxe}
+		{"predicate": {"custom_model_data":17}, "model": "item/crops/iron_hoe}
 	]
 }
