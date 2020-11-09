@@ -22,15 +22,6 @@
 		{"predicate": {"custom_model_data":14}, "model": "item/crops/yeast"},
 		{"predicate": {"custom_model_data":15}, "model": "item/crops/seeds"},
 		{"predicate": {"custom_model_data":16}, "model": "item/crops/grain"},
-		{"predicate": {"custom_model_data":17}, "model": "item/herbs/anise"},
-		{"predicate": {"custom_model_data":18}, "model": "item/herbs/dandelion"},
-		{"predicate": {"custom_model_data":19}, "model": "item/herbs/dittany"},
-		{"predicate": {"custom_model_data":20}, "model": "item/herbs/lavender"},
-		{"predicate": {"custom_model_data":21}, "model": "item/herbs/mint"},
-		{"predicate": {"custom_model_data":22}, "model": "item/herbs/monkshood"},
-		{"predicate": {"custom_model_data":23}, "model": "item/herbs/mugwart"},
-		{"predicate": {"custom_model_data":24}, "model": "item/herbs/muskmallow"},
-		{"predicate": {"custom_model_data":25}, "model": "item/herbs/wolfsbane"},
-		{"predicate": {"custom_model_data":26}, "model": "item/herbs/wormwood"}
+		{"predicate": {"custom_model_data":17}, "model": "item/crops/iron_pickaxe}
 	]
 }
