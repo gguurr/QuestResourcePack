@@ -20,7 +20,7 @@
 		{"predicate": {"custom_model_data":13}, "model": "item/icons/icon_roads"},
 		{"predicate": {"custom_model_data":14}, "model": "item/icons/icon_townhall"},
 		{"predicate": {"custom_model_data":15}, "model": "item/icons/icon_walls"},
-        {"predicate": {"custom_model_data":16}, "model": "item/icons/icon_forward"},
+       		{"predicate": {"custom_model_data":16}, "model": "item/icons/icon_forward"},
 		{"predicate": {"custom_model_data":17}, "model": "item/icons/icon_backwards"}
 	]
 }

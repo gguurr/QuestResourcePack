@@ -1,9 +1,30 @@
 archeology = emerald
 blacksmith=iron_axe
 carpenter= scute
-crops = rabit hide
-forager = sweet berries
-herbs = rabit hide
+crops = rabbit_hide
+forager = sweet_berries
+herbs = ruby
 icons = paper
-keys = trip wire
+keys = trip_wire
+miner=carrot
 misc = diamond
+
+give Violetskyzz minecraft:emerald{CustomModelData:1}
+
+give Violetskyzz minecraft:iron_axe{CustomModelData:1}
+
+give Violetskyzz minecraft:scute{CustomModelData:1}
+
+give Violetskyzz minecraft:rabbit_hide{CustomModelData:1}
+
+give Violetskyzz minecraft:sweet_berries{CustomModelData:1}
+
+give Violetskyzz minecraft:paper{CustomModelData:1}
+
+give Violetskyzz minecraft:trip_wire{CustomModelData:1}
+
+give Violetskyzz minecraft:diamond{CustomModelData:1}
+
+give Violetskyzz minecraft:ruby{CustomModelData:1}
+
+give Violetskyzz minecraft:carrot{CustomModelData:1}

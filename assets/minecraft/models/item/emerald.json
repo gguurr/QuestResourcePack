@@ -14,6 +14,7 @@
     		{"predicate": {"custom_model_data":7}, "model": "item/archeology/tablet"},
 		{"predicate": {"custom_model_data":8}, "model": "item/archeology/tome"},
 		{"predicate": {"custom_model_data":9}, "model": "item/archeology/skull"},
-		{"predicate": {"custom_model_data":10}, "model": "item/archeology/goldenskull"}
+		{"predicate": {"custom_model_data":10}, "model": "item/archeology/goldenskull"},
+		{"predicate": {"custom_model_data":11}, "model": "item/archeology/iron_shovel"}
 	]
 }

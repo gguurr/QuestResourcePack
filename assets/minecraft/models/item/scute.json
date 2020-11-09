@@ -5,16 +5,17 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/enviorment/carpenter/acacialog"},
-		{"predicate": {"custom_model_data":2}, "model": "item/enviorment/carpenter/birchlog"},
-		{"predicate": {"custom_model_data":3}, "model": "item/enviorment/carpenter/cedarlog"},
-		{"predicate": {"custom_model_data":4}, "model": "item/enviorment/carpenter/darkoaklog"},
-		{"predicate": {"custom_model_data":5}, "model": "item/enviorment/carpenter/mahoganylog"},
-		{"predicate": {"custom_model_data":6}, "model": "item/enviorment/carpenter/oaklog"},
-		{"predicate": {"custom_model_data":7}, "model": "item/enviorment/carpenter/pinelog"},
-		{"predicate": {"custom_model_data":8}, "model": "item/enviorment/carpenter/sprucelog"},
-		{"predicate": {"custom_model_data":9}, "model": "item/enviorment/carpenter/teakwoodlog"},
-		{"predicate": {"custom_model_data":10}, "model": "item/enviorment/carpenter/twig"},
-		{"predicate": {"custom_model_data":11}, "model": "item/enviorment/carpenter/mahoganytree"}
+		{"predicate": {"custom_model_data":1}, "model": "item/carpenter/acacialog"},
+		{"predicate": {"custom_model_data":2}, "model": "item/carpenter/birchlog"},
+		{"predicate": {"custom_model_data":3}, "model": "item/carpenter/cedarlog"},
+		{"predicate": {"custom_model_data":4}, "model": "item/carpenter/darkoaklog"},
+		{"predicate": {"custom_model_data":5}, "model": "item/carpenter/mahoganylog"},
+		{"predicate": {"custom_model_data":6}, "model": "item/carpenter/oaklog"},
+		{"predicate": {"custom_model_data":7}, "model": "item/carpenter/pinelog"},
+		{"predicate": {"custom_model_data":8}, "model": "item/carpenter/sprucelog"},
+		{"predicate": {"custom_model_data":9}, "model": "item/carpenter/teakwoodlog"},
+		{"predicate": {"custom_model_data":10}, "model": "item/carpenter/twig"},
+		{"predicate": {"custom_model_data":11}, "model": "item/carpenter/mahoganytree"},
+		{"predicate": {"custom_model_data":12}, "model": "item/carpenter/iron_axe"}
 	]
 }

@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/sugar"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/herbs/anise"},
+		{"predicate": {"custom_model_data":2}, "model": "item/herbs/dandelion"},
+		{"predicate": {"custom_model_data":3}, "model": "item/herbs/dittany"},
+		{"predicate": {"custom_model_data":4}, "model": "item/herbs/lavender"},
+		{"predicate": {"custom_model_data":5}, "model": "item/herbs/mint"},
+		{"predicate": {"custom_model_data":6}, "model": "item/herbs/monkshood"},
+		{"predicate": {"custom_model_data":7}, "model": "item/herbs/mugwort"},
+		{"predicate": {"custom_model_data":8}, "model": "item/herbs/muskmallow"},
+		{"predicate": {"custom_model_data":9}, "model": "item/herbs/wolfsbane"},
+		{"predicate": {"custom_model_data":10}, "model": "item/herbs/wormwood"}
+	]
+}

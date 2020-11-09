@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/tinted_cross",
 	"textures": {
 		"0": "block/mugwort0",
 		"1": "block/mugwort1",
