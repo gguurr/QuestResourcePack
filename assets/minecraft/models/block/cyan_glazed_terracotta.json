@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/nickel",
-		"3": "block/empty_ore",
+		"3": "block/cobblestone",
 		"particle": "block/nickel"
 	},
 	"elements": [
