@@ -6,7 +6,6 @@
 		"2": "block/acacia_trapdoor",
 		"4": "block/cauldron_inner",
 		"5": "block/cobblestone",
-		"6": "block/fire_1",
 		"particle": "block/dark_oak_log"
 	},
 	"elements": [
@@ -72,7 +71,7 @@
 			"to": [13.875, 7.13988, -0.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [10.25, -3.48512, 6.25]},
 			"faces": {
-				"north": {"uv": [1, 10, 14, 16], "texture": "#6"},
+				"north": {"uv": [1, 10, 14, 16], "texture": "#4"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#4"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#4"},
@@ -128,7 +127,7 @@
 			"to": [11.625, 19.76488, 0.375],
 			"rotation": {"angle": 0, "axis": "y", "origin": [9, 12.13988, 8.625]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#6"},
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
