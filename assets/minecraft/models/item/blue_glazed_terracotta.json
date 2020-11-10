@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/tugsten",
-		"3": "block/empty_ore",
-		"particle": "block/tugsten"
+		"1": "block/tungsten",
+		"3": "block/cobblestone",
+		"particle": "block/tungsten"
 	},
 	"elements": [
 		{

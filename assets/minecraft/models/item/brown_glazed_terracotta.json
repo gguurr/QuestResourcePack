@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/Titanium",
-		"3": "block/empty_ore",
-		"particle": "block/Titanium"
+		"1": "block/titanium",
+		"3": "block/cobblestone",
+		"particle": "block/titanium"
 	},
 	"elements": [
 		{
