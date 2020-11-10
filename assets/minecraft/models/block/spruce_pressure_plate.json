@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "block/spruce_pressureplate",
 		"particle": "block/spruce_pressureplate",
-		"texture": "block/spruce_planks"
+		"texture": "block/spruce_pressureplate"
 	},
 	"elements": [
 		{
