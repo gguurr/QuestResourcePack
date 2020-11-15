@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/flower_pot_cross",
+	"parent": "minecraft:block/block",
 	"textures": {
 		"1": "block/allium",
 		"particle": "block/allium"
