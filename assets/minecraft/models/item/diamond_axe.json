@@ -3,7 +3,7 @@
     "textures": {
         "layer0": "item/diamond_axe",
 		"particle": "item/diamond_axe"
-    }
+    },
     "overrides": [
         {"predicate": {"damaged": 0, "damage": 0.00064}, "model": "majesty/slots/fill"},
         {"predicate": {"damaged": 0, "damage": 0.00128}, "model": "majesty/slots/workbench"},
