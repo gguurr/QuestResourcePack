@@ -1,0 +1,132 @@
+{
+  "file_name": "rc1",
+  "texture_size": [
+    8,
+    8
+  ],
+  "textures": {
+    "layer0": "modelengine:entity/crab"
+  },
+  "elements": [
+    {
+      "name": "rc1_0",
+      "from": [
+        7.9250007,
+        7.996988,
+        7.7983885
+      ],
+      "to": [
+        8.075001,
+        8.071988,
+        8.098389
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "x",
+        "origin": [
+          8.0,
+          8.034488,
+          7.948388
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            2.0,
+            5.5,
+            1.0,
+            6.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0.25,
+            1.0,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.0,
+            5.25,
+            2.0,
+            5.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.25,
+            0.5,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.8759999,
+            4.75,
+            2.876,
+            4.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            0.25,
+            1.0,
+            0.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        -6.4,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

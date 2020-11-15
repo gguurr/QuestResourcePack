@@ -1,0 +1,11 @@
+{
+  "parent": "majesty/renders/gui_only",
+  "textures": {
+    "layer0": "majesty/slots/placeholder_fuel"
+  },
+  "display": {
+    "gui": {
+      "scale": [1.125, 1.125, 1.125]
+    }
+  }
+}

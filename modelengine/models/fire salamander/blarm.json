@@ -1,0 +1,552 @@
+{
+  "file_name": "blarm",
+  "texture_size": [
+    128,
+    128
+  ],
+  "textures": {
+    "layer0": "modelengine:entity/fire salamander"
+  },
+  "elements": [
+    {
+      "name": "blarm_0",
+      "from": [
+        6.600506,
+        7.85,
+        7.290212
+      ],
+      "to": [
+        7.500506,
+        8.225,
+        7.740212
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.9,
+          8.3,
+          6.35
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            16.0,
+            4.75,
+            0.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            16.0,
+            9.0,
+            0.0,
+            13.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            9.0,
+            16.0,
+            13.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            16.0,
+            11.5,
+            3.5,
+            4.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "blarm_1",
+      "from": [
+        6.275078,
+        8.465108,
+        8.064367
+      ],
+      "to": [
+        7.400078,
+        8.765108,
+        8.514368
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "z",
+        "origin": [
+          8.9,
+          8.3,
+          6.35
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            16.0,
+            4.75,
+            0.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            16.0,
+            7.5,
+            0.0,
+            11.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            5.0,
+            16.0,
+            8.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            16.0,
+            4.75,
+            0.0,
+            11.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "blarm_2",
+      "from": [
+        6.7193604,
+        7.4,
+        8.744186
+      ],
+      "to": [
+        7.3943605,
+        7.625,
+        9.344186
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "y",
+        "origin": [
+          8.9,
+          8.3,
+          6.35
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            16.0,
+            4.75,
+            0.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            9.0,
+            16.0,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            9.0,
+            16.0,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            9.0,
+            16.0,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            4.75,
+            7.75,
+            11.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            9.0,
+            16.0,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "blarm_3",
+      "from": [
+        7.0147457,
+        7.4,
+        8.489859
+      ],
+      "to": [
+        7.1647463,
+        7.55,
+        8.864859
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "y",
+        "origin": [
+          8.9,
+          8.3,
+          6.35
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            16.0,
+            4.75,
+            0.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            8.25,
+            2.5,
+            13.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "blarm_4",
+      "from": [
+        5.5372095,
+        7.4,
+        6.371834
+      ],
+      "to": [
+        5.6872096,
+        7.55,
+        6.746834
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.9,
+          8.3,
+          6.35
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            16.0,
+            4.75,
+            0.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            8.25,
+            2.5,
+            13.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "blarm_5",
+      "from": [
+        6.43313,
+        7.4,
+        9.10316
+      ],
+      "to": [
+        6.80813,
+        7.55,
+        9.25316
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "y",
+        "origin": [
+          8.9,
+          8.3,
+          6.35
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            16.0,
+            4.75,
+            0.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            8.25,
+            2.5,
+            13.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            4.75,
+            16.0,
+            16.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        -6.4,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

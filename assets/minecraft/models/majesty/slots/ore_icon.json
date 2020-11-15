@@ -1,0 +1,11 @@
+{
+  "parent": "majesty/renders/gui_only",
+  "textures": {
+    "layer0": "majesty/slots/placeholer_ore"
+  },
+  "display": {
+    "gui": {
+      "scale": [1.125, 1.125, 1.125]
+    }
+  }
+}
