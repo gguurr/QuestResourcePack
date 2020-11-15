@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "parent": "item/wooden_axe",
     "textures": {
         "layer0": "item/iron_axe",
@@ -71,4 +72,72 @@
         {"predicate": {"custom_model_data":63}, "model": "item/blacksmith/iron_shovel"}
         ]
     }    
+=======
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_axe"
+	},
+	
+	"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/blacksmith/grindstone_circle_still"},
+	{"predicate": {"custom_model_data":2}, "model": "item/blacksmith/water_bucket_empty"},
+	{"predicate": {"custom_model_data":3}, "model": "item/blacksmith/water_bucket_full"},
+	{"predicate": {"custom_model_data":4}, "model": "item/blacksmith/bellow1"},  
+	{"predicate": {"custom_model_data":5}, "model": "item/blacksmith/bellow2"},
+	{"predicate": {"custom_model_data":6}, "model": "item/blacksmith/bellow3"},
+	{"predicate": {"custom_model_data":7}, "model": "item/blacksmith/hammer"}, 
+	{"predicate": {"custom_model_data":8}, "model": "item/blacksmith/ingot_aluminum"},  
+	{"predicate": {"custom_model_data":9}, "model": "item/blacksmith/ingot_chromium"},
+	{"predicate": {"custom_model_data":10}, "model": "item/blacksmith/ingot_copper"},
+	{"predicate": {"custom_model_data":11}, "model": "item/blacksmith/ingot_iridium"},
+	{"predicate": {"custom_model_data":12}, "model": "item/blacksmith/ingot_iron"},
+	{"predicate": {"custom_model_data":13}, "model": "item/blacksmith/ingot_nickel"},
+	{"predicate": {"custom_model_data":14}, "model": "item/blacksmith/ingot_titanium"},
+	{"predicate": {"custom_model_data":15}, "model": "item/blacksmith/ingot_tungsten"},
+   	{"predicate": {"custom_model_data":16}, "model": "item/blacksmith/grindstone_circle_speed1"},
+    	{"predicate": {"custom_model_data":17}, "model": "item/blacksmith/grindstone_circle_speed2"},
+    	{"predicate": {"custom_model_data":18}, "model": "item/blacksmith/grindstone_circle_speed3"},
+	{"predicate": {"custom_model_data":19}, "model": "item/blacksmith/boots_item_hot"},
+	{"predicate": {"custom_model_data":20}, "model": "item/blacksmith/chestplate_item_hot"},
+	{"predicate": {"custom_model_data":21}, "model": "item/blacksmith/helmet_item_hot"},
+	{"predicate": {"custom_model_data":22}, "model": "item/blacksmith/legging_item_hot"},
+	{"predicate": {"custom_model_data":23}, "model": "item/blacksmith/furnace_on"},
+	{"predicate": {"custom_model_data":24}, "model": "item/blacksmith/lighthelmet_item_hot"},
+	{"predicate": {"custom_model_data":25}, "model": "item/blacksmith/lightchestplate_item_hot"},
+	{"predicate": {"custom_model_data":26}, "model": "item/blacksmith/lightleggings_item_hot"},
+	{"predicate": {"custom_model_data":27}, "model": "item/blacksmith/lightboots_item_hot"},
+	{"predicate": {"custom_model_data":28}, "model": "item/blacksmith/aluminum_sword"},
+	{"predicate": {"custom_model_data":29}, "model": "item/blacksmith/chromium_sword"},
+	{"predicate": {"custom_model_data":30}, "model": "item/blacksmith/copper_sword"},
+	{"predicate": {"custom_model_data":31}, "model": "item/blacksmith/iridium_sword"},
+	{"predicate": {"custom_model_data":32}, "model": "item/blacksmith/iron_sword"},
+	{"predicate": {"custom_model_data":33}, "model": "item/blacksmith/nickel_sword"},
+	{"predicate": {"custom_model_data":34}, "model": "item/blacksmith/titanium_sword"},
+	{"predicate": {"custom_model_data":35}, "model": "item/blacksmith/tungsten_sword"},
+	{"predicate": {"custom_model_data":36}, "model": "item/blacksmith/aluminum_staff"},
+	{"predicate": {"custom_model_data":37}, "model": "item/blacksmith/chromium_staff"},
+	{"predicate": {"custom_model_data":38}, "model": "item/blacksmith/copper_staff"},
+	{"predicate": {"custom_model_data":39}, "model": "item/blacksmith/iridium_staff"},
+	{"predicate": {"custom_model_data":40}, "model": "item/blacksmith/iron_staff"},
+	{"predicate": {"custom_model_data":41}, "model": "item/blacksmith/nickel_staff"},
+	{"predicate": {"custom_model_data":42}, "model": "item/blacksmith/titanium_staff"},
+	{"predicate": {"custom_model_data":43}, "model": "item/blacksmith/tungsten_staff"},
+	{"predicate": {"custom_model_data":44}, "model": "item/blacksmith/aluminum_bow"},
+	{"predicate": {"custom_model_data":45}, "model": "item/blacksmith/chromium_bow"},
+	{"predicate": {"custom_model_data":46}, "model": "item/blacksmith/copper_bow"},
+	{"predicate": {"custom_model_data":47}, "model": "item/blacksmith/iridium_bow"},
+	{"predicate": {"custom_model_data":48}, "model": "item/blacksmith/iron_bow"},
+	{"predicate": {"custom_model_data":49}, "model": "item/blacksmith/nickel_bow"},
+	{"predicate": {"custom_model_data":50}, "model": "item/blacksmith/titanium_bow"},
+	{"predicate": {"custom_model_data":51}, "model": "item/blacksmith/tungsten_bow"},
+	{"predicate": {"custom_model_data":52}, "model": "item/blacksmith/aluminum_arrow"},
+	{"predicate": {"custom_model_data":53}, "model": "item/blacksmith/chromium_arrow"},
+	{"predicate": {"custom_model_data":54}, "model": "item/blacksmith/copper_arrow"},
+	{"predicate": {"custom_model_data":55}, "model": "item/blacksmith/iridium_arrow"},
+	{"predicate": {"custom_model_data":56}, "model": "item/blacksmith/iron_arrow"},
+	{"predicate": {"custom_model_data":57}, "model": "item/blacksmith/nickel_arrow"},
+	{"predicate": {"custom_model_data":58}, "model": "item/blacksmith/titanium_arrow"},
+	{"predicate": {"custom_model_data":59}, "model": "item/blacksmith/tungsten_arrow"}
+	]
+>>>>>>> 66b5f334a2b12b07a9642dc8d58081d8d330339f
 }

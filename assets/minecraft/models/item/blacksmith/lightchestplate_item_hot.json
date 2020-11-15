@@ -2,9 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "block/chainmail_layer_1_hot",
-		"1": "block/fire_1",
-		"particle": "block/fire_1"
+		"0": "block/chainmail_layer_1_hot"
 	},
 	"elements": [
 		{
@@ -17,80 +15,15 @@
 				"east": {"uv": [4, 10, 5, 16], "texture": "#0"},
 				"south": {"uv": [8, 10, 10, 16], "texture": "#0"},
 				"west": {"uv": [7, 10, 8, 16], "texture": "#0"},
-				"up": {"uv": [7.75, 7, 5.75, 5], "texture": "#0"},
-				"down": {"uv": [8, 5.5, 6, 7.5], "texture": "#0"}
-			}
-		},
-		{
-			"name": "Chestplate",
-			"from": [-11.26, 10.99, -3.26],
-			"to": [11.135, 20.135, -3.26],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, -0.25]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"east": {"uv": [4, 10, 5, 16], "texture": "#0"},
-				"west": {"uv": [7, 10, 8, 16], "texture": "#0"},
-				"up": {"uv": [7.75, 7, 5.75, 5], "texture": "#0"},
-				"down": {"uv": [8, 5.5, 6, 7.5], "texture": "#0"}
-			}
-		},
-		{
-			"name": "Chestplate",
-			"from": [-11.26, 10.99, 3.135],
-			"to": [11.135, 20.135, 3.135],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0.125]},
-			"faces": {
-				"east": {"uv": [5, 10, 4, 16], "texture": "#0"},
-				"south": {"uv": [16, 0, 0, 16], "texture": "#1"},
-				"west": {"uv": [8, 10, 7, 16], "texture": "#0"},
-				"up": {"uv": [7.75, 5, 5.75, 7], "texture": "#0"},
-				"down": {"uv": [8, 7.5, 6, 5.5], "texture": "#0"}
-			}
-		},
-		{
-			"name": "Chestplate",
-			"from": [-11.385, 10.99, -3.26],
-			"to": [-11.385, 20.135, 3.01],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-8.375, 0, 0.125]},
-			"faces": {
-				"north": {"uv": [8, 10, 7, 16], "texture": "#0"},
-				"south": {"uv": [5, 10, 4, 16], "texture": "#0"},
-				"west": {"uv": [11.5, 0, 1.5, 16], "texture": "#1"},
-				"up": {"uv": [7.75, 5, 5.75, 7], "rotation": 90, "texture": "#0"},
-				"down": {"uv": [8, 7.5, 6, 5.5], "rotation": 270, "texture": "#0"}
-			}
-		},
-		{
-			"name": "Chestplate",
-			"from": [11.26, 10.99, -3.26],
-			"to": [11.26, 20.135, 3.01],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.25, 0, 0.125]},
-			"faces": {
-				"north": {"uv": [7, 10, 8, 16], "texture": "#0"},
-				"east": {"uv": [1.5, 0, 11.5, 16], "texture": "#1"},
-				"south": {"uv": [4, 10, 5, 16], "texture": "#0"},
-				"up": {"uv": [7.75, 7, 5.75, 5], "rotation": 90, "texture": "#0"},
-				"down": {"uv": [8, 5.5, 6, 7.5], "rotation": 270, "texture": "#0"}
-			}
-		},
-		{
-			"name": "Chestplate",
-			"from": [-5.01, 10.99, -3.26],
-			"to": [5.01, 25.01, -3.26],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, -0.25]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"east": {"uv": [4, 10, 5, 16], "texture": "#0"},
-				"west": {"uv": [7, 10, 8, 16], "texture": "#0"},
-				"up": {"uv": [7.75, 7, 5.75, 5], "texture": "#0"},
-				"down": {"uv": [8, 5.5, 6, 7.5], "texture": "#0"}
+				"up": {"uv": [7, 10, 5, 8], "texture": "#0"},
+				"down": {"uv": [9, 8, 7, 10], "texture": "#0"}
 			}
 		},
 		{
 			"name": "Right Arm Armor",
-			"from": [5.125, 11, -3],
-			"to": [11.125, 25, 3],
-			"rotation": {"angle": 0, "axis": "y", "origin": [2.125, 0, 0]},
+			"from": [3, 11, -3],
+			"to": [9, 25, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
 			"faces": {
 				"north": {"uv": [11, 10, 12, 16], "texture": "#0"},
 				"east": {"uv": [10, 10, 11, 16], "texture": "#0"},
@@ -102,10 +35,10 @@
 		},
 		{
 			"name": "Left Arm Armor",
-			"from": [-11.25, 11, -3],
-			"to": [-5.25, 25, 3],
+			"from": [-9, 11, -3],
+			"to": [-3, 25, 3],
 			"shade": false,
-			"rotation": {"angle": 0, "axis": "y", "origin": [-2.25, 0, 0]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
 			"faces": {
 				"north": {"uv": [12, 10, 11, 16], "texture": "#0"},
 				"east": {"uv": [13, 10, 12, 16], "texture": "#0"},
@@ -142,13 +75,12 @@
 			"scale": [0.59, 0.56, 0.56]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
-			"translation": [-7.25, -4.75, 0],
-			"scale": [0.625, 0.625, 0.625]
+			"translation": [6.25, -9.75, 0],
+			"scale": [0.77, 1, 1]
 		},
 		"head": {
-			"translation": [6.5, -7.75, 6],
-			"scale": [0.81, 0.81, 0.81]
+			"translation": [10.5, -25.5, 7.5],
+			"scale": [1.24, 1.24, 1]
 		},
 		"fixed": {
 			"translation": [5.5, -7.25, 5.25],
@@ -159,17 +91,17 @@
 		{
 			"name": "Body",
 			"origin": [0, 24, 0],
-			"children": [0, 1, 2, 3, 4, 5]
+			"children": [0]
 		},
 		{
 			"name": "RightArm",
 			"origin": [5, 22, 0],
-			"children": [6]
+			"children": [1]
 		},
 		{
 			"name": "LeftArm",
 			"origin": [-5, 22, 0],
-			"children": [7]
+			"children": [2]
 		}
 	]
 }

@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/placeholder_ore",
+		"particle": "block/placeholder_ore"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 8],
+			"to": [14, 12, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.125, 0.125], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.125, 0.125], "texture": "#missing"},
+				"up": {"uv": [0, 0, 0.125, 0.125], "rotation": 90, "texture": "#missing"},
+				"down": {"uv": [0, 0, 0.125, 0.125], "rotation": 270, "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"translation": [0, 2.25, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -0.25]
+		}
+	}
+}

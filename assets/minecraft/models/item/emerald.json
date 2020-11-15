@@ -1,0 +1,20 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/emerald"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/archeology/chalice"},
+		{"predicate": {"custom_model_data":2}, "model": "item/archeology/cross"},
+		{"predicate": {"custom_model_data":3}, "model": "item/archeology/crown"},
+		{"predicate": {"custom_model_data":4}, "model": "item/archeology/diadem"},
+		{"predicate": {"custom_model_data":5}, "model": "item/archeology/orb"},
+		{"predicate": {"custom_model_data":6}, "model": "item/archeology/statue"},
+    		{"predicate": {"custom_model_data":7}, "model": "item/archeology/tablet"},
+		{"predicate": {"custom_model_data":8}, "model": "item/archeology/tome"},
+		{"predicate": {"custom_model_data":9}, "model": "item/archeology/skull"},
+		{"predicate": {"custom_model_data":10}, "model": "item/archeology/goldenskull"},
+		{"predicate": {"custom_model_data":11}, "model": "item/archeology/iron_shovel"}
+	]
+}
