@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench by Juknum",
-	"parent": "block/gold_ore",
-	"textures": {
-		"0": "block/coal_ore",
-		"particle": "block/coal_ore"
-	}
-}
