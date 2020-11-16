@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/red_stained_glass",
-		"2": "Relics:block/crown0",
-		"particle": "Relics:block/crown0"
+		"2": "block/crown0",
+		"particle": "block/crown0"
 	},
 	"elements": [
 		{
