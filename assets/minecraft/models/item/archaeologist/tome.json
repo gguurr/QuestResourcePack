@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Relics:block/tome1",
-		"1": "Relics:block/tome0",
-		"particle": "Relics:block/tome1"
+		"0": "block/tome1",
+		"1": "block/tome0",
+		"particle": "block/tome1"
 	},
 	"elements": [
 		{
