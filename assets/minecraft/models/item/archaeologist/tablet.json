@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "Relics:block/tablet0",
-		"particle": "Relics:block/tablet0"
+		"0": "block/tablet0",
+		"particle": "block/tablet0"
 	},
 	"elements": [
 		{
