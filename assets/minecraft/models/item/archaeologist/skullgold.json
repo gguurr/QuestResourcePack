@@ -1,10 +1,9 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "skullgold",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "Downloads/skullgold",
-		"particle": "Downloads/skullgold"
+		"0": "block/skullgold",
+		"particle": "block/skullgold"
 	},
 	"elements": [
 		{
