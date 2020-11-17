@@ -1,0 +1,552 @@
+{
+  "file_name": "turtle",
+  "texture_size": [
+    16,
+    16
+  ],
+  "textures": {
+    "layer0": "modelengine:entity/turtle"
+  },
+  "elements": [
+    {
+      "name": "turtle_0",
+      "from": [
+        6.9796286,
+        8.814032,
+        6.7379417
+      ],
+      "to": [
+        9.017048,
+        9.040412,
+        9.6808815
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            15.0,
+            2.0,
+            15.0,
+            2.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            3.5,
+            8.125,
+            6.0025,
+            8.3175
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            4.375,
+            0.125,
+            6.1075,
+            0.3175
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.125,
+            0.375,
+            2.8575,
+            0.5675
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            2.5,
+            3.5,
+            5.0025,
+            5.2325
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            1.625,
+            8.25,
+            4.1275,
+            8.4425
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "turtle_1",
+      "from": [
+        6.526868,
+        8.587652,
+        6.285182
+      ],
+      "to": [
+        9.469808,
+        8.814032,
+        10.133642
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            15.0,
+            2.0,
+            15.0,
+            2.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.376,
+            6.5,
+            4.6485,
+            6.6925
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.5,
+            0.5,
+            4.0025,
+            0.6925
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.125,
+            0.375,
+            3.6275,
+            0.5675
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.0,
+            2.126,
+            4.2725,
+            4.6285
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            1.625,
+            8.25,
+            4.8975,
+            8.4425
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "turtle_2",
+      "from": [
+        6.0741076,
+        7.0823717,
+        6.285182
+      ],
+      "to": [
+        9.922567,
+        7.479272,
+        10.133642
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            13.0,
+            10.0,
+            8.0,
+            14.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.0,
+            11.375,
+            4.2725,
+            11.7125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.5,
+            10.5,
+            4.7725,
+            10.8375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            5.3975,
+            10.625,
+            2.125,
+            10.9625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.5,
+            11.5,
+            4.7725,
+            14.7725
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.5,
+            12.0,
+            6.25,
+            13.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "turtle_3",
+      "from": [
+        6.0741076,
+        7.376372,
+        6.285182
+      ],
+      "to": [
+        9.922567,
+        8.361272,
+        10.133642
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            15.0,
+            2.0,
+            15.0,
+            2.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.876,
+            3.626,
+            4.1485,
+            4.4635
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.0,
+            2.876,
+            4.2725,
+            3.7135
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.626,
+            3.25,
+            4.8985,
+            4.0875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.0,
+            0.8759999,
+            4.2725,
+            4.1485
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            1.626,
+            3.25,
+            4.8985,
+            4.0875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "turtle_4",
+      "from": [
+        6.3004875,
+        7.296992,
+        6.0588017
+      ],
+      "to": [
+        9.696188,
+        8.587652,
+        10.360023
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.0,
+            1.0,
+            3.0,
+            8.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.876,
+            4.0,
+            4.5335,
+            5.0975
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            2.5,
+            1.5,
+            8.1595,
+            3.6511
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.125,
+            0.375,
+            4.0125,
+            1.4725
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.49999976,
+            1.6260002,
+            4.1575,
+            4.5135
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.876,
+            3.25,
+            4.5335,
+            4.3475
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "turtle_5",
+      "from": [
+        6.526868,
+        7.376372,
+        5.8324223
+      ],
+      "to": [
+        9.469808,
+        8.361272,
+        10.586402
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            6.0,
+            0.0,
+            1.0,
+            8.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            3.5,
+            8.125,
+            7.5425,
+            8.9625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            3.0,
+            2.126,
+            7.9049,
+            3.7675
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            4.0,
+            2.0,
+            7.0,
+            3.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            3.5,
+            3.125,
+            7.5425,
+            5.6275
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.0,
+            7.0,
+            6.0,
+            8.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        -6.4,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}
