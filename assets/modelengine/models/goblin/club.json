@@ -1,0 +1,2232 @@
+{
+  "file_name": "club",
+  "texture_size": [
+    16,
+    16
+  ],
+  "textures": {
+    "layer0": "modelengine:entity/goblin"
+  },
+  "elements": [
+    {
+      "name": "club_0",
+      "from": [
+        7.85,
+        7.8125,
+        6.9125
+      ],
+      "to": [
+        8.15,
+        8.1875,
+        8.7875
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.75,
+            5.5,
+            8.25,
+            8.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.625,
+            9.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.75,
+            8.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.5,
+            9.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_1",
+      "from": [
+        7.775,
+        7.7375,
+        8.5625
+      ],
+      "to": [
+        8.3,
+        8.2625,
+        8.7125
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.125,
+            5.5,
+            8.25,
+            5.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.875,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.125,
+            5.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.75,
+            6.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_2",
+      "from": [
+        7.925,
+        8.1875,
+        6.9125
+      ],
+      "to": [
+        8.075,
+        8.2625,
+        8.5625
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            5.5,
+            8.25,
+            8.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.125,
+            9.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.5,
+            8.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.0,
+            9.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_3",
+      "from": [
+        7.925,
+        7.7375,
+        6.9125
+      ],
+      "to": [
+        8.075,
+        7.8125,
+        8.5625
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            5.5,
+            8.25,
+            8.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.125,
+            9.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.5,
+            8.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.0,
+            9.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_4",
+      "from": [
+        7.775,
+        7.7375,
+        6.5375
+      ],
+      "to": [
+        8.225,
+        8.2625,
+        7.0625
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.0,
+            5.5,
+            8.25,
+            6.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.875,
+            7.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.0,
+            6.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.75,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_5",
+      "from": [
+        8.225,
+        7.8125,
+        6.5375
+      ],
+      "to": [
+        8.3,
+        8.1875,
+        7.0625
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.375,
+            5.5,
+            8.25,
+            6.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.625,
+            7.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.375,
+            6.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.5,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_6",
+      "from": [
+        7.751852,
+        7.8125,
+        6.5038757
+      ],
+      "to": [
+        7.826852,
+        8.1875,
+        7.0288763
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.375,
+            5.5,
+            8.25,
+            6.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.625,
+            7.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.375,
+            6.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.5,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_7",
+      "from": [
+        7.85,
+        8.2625,
+        6.5375
+      ],
+      "to": [
+        8.15,
+        8.3375,
+        7.0625
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.75,
+            5.5,
+            8.25,
+            6.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.125,
+            7.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.75,
+            6.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.0,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_8",
+      "from": [
+        7.85,
+        7.6625,
+        6.5375
+      ],
+      "to": [
+        8.15,
+        7.7375,
+        7.0625
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.75,
+            5.5,
+            8.25,
+            6.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.125,
+            7.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.75,
+            6.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.0,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_9",
+      "from": [
+        7.7,
+        7.6625,
+        5.7875
+      ],
+      "to": [
+        8.375,
+        8.3375,
+        6.5375
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.375,
+            5.5,
+            8.25,
+            6.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            9.125,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.375,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            9.0,
+            7.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_10",
+      "from": [
+        8.3,
+        7.7375,
+        5.7875
+      ],
+      "to": [
+        8.45,
+        8.2625,
+        6.5375
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            5.5,
+            8.25,
+            6.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.875,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.5,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.75,
+            7.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_11",
+      "from": [
+        7.659566,
+        7.7375,
+        5.765762
+      ],
+      "to": [
+        7.8095655,
+        8.2625,
+        6.515762
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            5.5,
+            8.25,
+            6.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.875,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.5,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.75,
+            7.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_12",
+      "from": [
+        7.775,
+        8.3375,
+        5.7875
+      ],
+      "to": [
+        8.3,
+        8.4125,
+        6.5375
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.125,
+            5.5,
+            8.25,
+            6.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.125,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.125,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.0,
+            7.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_13",
+      "from": [
+        7.775,
+        7.5875,
+        5.7875
+      ],
+      "to": [
+        8.3,
+        7.6625,
+        6.5375
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.125,
+            5.5,
+            8.25,
+            6.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.125,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.125,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.0,
+            7.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_14",
+      "from": [
+        7.625,
+        7.5875,
+        4.8125
+      ],
+      "to": [
+        8.45,
+        8.4125,
+        5.7875
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.625,
+            5.5,
+            8.25,
+            7.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            9.375,
+            8.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.625,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            9.25,
+            8.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_15",
+      "from": [
+        8.45,
+        7.6625,
+        4.8125
+      ],
+      "to": [
+        8.525,
+        8.3375,
+        5.7875
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.375,
+            5.5,
+            8.25,
+            7.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            9.125,
+            8.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.375,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            9.0,
+            8.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_16",
+      "from": [
+        7.5729923,
+        7.6625,
+        4.7739496
+      ],
+      "to": [
+        7.647992,
+        8.3375,
+        5.74895
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.375,
+            5.5,
+            8.25,
+            7.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            9.125,
+            8.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.375,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            9.0,
+            8.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_17",
+      "from": [
+        7.7,
+        8.4125,
+        4.8125
+      ],
+      "to": [
+        8.375,
+        8.4875,
+        5.7875
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.375,
+            5.5,
+            8.25,
+            7.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.125,
+            8.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.375,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.0,
+            8.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_18",
+      "from": [
+        7.7,
+        7.5125,
+        4.8125
+      ],
+      "to": [
+        8.375,
+        7.5875,
+        5.7875
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.375,
+            5.5,
+            8.25,
+            7.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.125,
+            8.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.375,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.0,
+            8.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_19",
+      "from": [
+        7.55,
+        7.5125,
+        3.6874998
+      ],
+      "to": [
+        8.525,
+        8.4875,
+        5.0375
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.875,
+            5.5,
+            8.25,
+            7.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            9.625,
+            8.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.875,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            9.5,
+            8.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_20",
+      "from": [
+        8.525,
+        7.5875,
+        3.7624998
+      ],
+      "to": [
+        8.6,
+        8.4125,
+        5.0375
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.375,
+            5.5,
+            8.25,
+            7.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            9.375,
+            8.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.375,
+            7.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            9.25,
+            8.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_21",
+      "from": [
+        7.480712,
+        7.5875,
+        3.7358356
+      ],
+      "to": [
+        7.5557117,
+        8.4125,
+        5.0108356
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.375,
+            5.5,
+            8.25,
+            7.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            9.375,
+            8.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            8.375,
+            7.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            9.25,
+            8.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_22",
+      "from": [
+        7.625,
+        8.4875,
+        3.7624998
+      ],
+      "to": [
+        8.45,
+        8.5625,
+        5.0375
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.625,
+            5.5,
+            8.25,
+            7.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.125,
+            8.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.625,
+            7.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.0,
+            8.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_23",
+      "from": [
+        7.625,
+        7.4375,
+        3.7624998
+      ],
+      "to": [
+        8.45,
+        7.5125,
+        5.0375
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.625,
+            5.5,
+            8.25,
+            7.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            8.125,
+            8.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.625,
+            7.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            8.0,
+            8.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_24",
+      "from": [
+        7.625,
+        7.5875,
+        3.5375
+      ],
+      "to": [
+        8.45,
+        8.4125,
+        3.6874998
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.625,
+            5.5,
+            8.25,
+            5.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            9.375,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.625,
+            5.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            9.25,
+            6.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "club_25",
+      "from": [
+        7.775,
+        7.7375,
+        3.4624999
+      ],
+      "to": [
+        8.3,
+        8.2625,
+        3.6124997
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "y",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.625,
+            5.5,
+            8.25,
+            5.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8.0,
+            6.625,
+            9.375,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.125,
+            7.25,
+            9.625,
+            7.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.625,
+            5.5,
+            9.125,
+            6.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            5.625,
+            9.625,
+            5.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.875,
+            6.375,
+            9.25,
+            6.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        -6.4,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

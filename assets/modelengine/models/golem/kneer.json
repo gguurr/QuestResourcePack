@@ -1,0 +1,132 @@
+{
+  "file_name": "kneer",
+  "texture_size": [
+    128,
+    128
+  ],
+  "textures": {
+    "layer0": "modelengine:entity/golem"
+  },
+  "elements": [
+    {
+      "name": "kneer_0",
+      "from": [
+        5.802297,
+        5.8855944,
+        5.1799994
+      ],
+      "to": [
+        10.002297,
+        10.685595,
+        9.32
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            2.375,
+            7.625,
+            3.25,
+            8.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.75,
+            8.375,
+            1.5,
+            9.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.5,
+            8.375,
+            2.375,
+            9.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            3.125,
+            8.375,
+            4.0,
+            9.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            2.375,
+            8.375,
+            1.5,
+            7.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.375,
+            8.375,
+            3.125,
+            9.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        -6.4,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}
