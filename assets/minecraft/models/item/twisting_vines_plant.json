@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/rope",
+		"particle": "block/twisting_vines_plant"
+	},
+	"elements": [
+		{
+			"from": [8.62222, 0.08889, 5.15556],
+			"to": [10.57778, 16, 7.11111],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16.62222, 21.77778, 15.28889]},
+			"faces": {
+				"north": {"uv": [3.5, 0, 5.5, 16], "texture": "#1"},
+				"east": {"uv": [2, 0, 4, 16], "texture": "#1"},
+				"south": {"uv": [4, 0, 6, 16], "texture": "#1"},
+				"west": {"uv": [1.5, 0, 3.5, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 1.95556, 1.95556], "texture": "#1"},
+				"down": {"uv": [0, 0, 1.95556, 1.95556], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-1.5, 0, 3.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [1.75, 0, 3.5]
+		},
+		"firstperson_righthand": {
+			"translation": [-0.25, 0.25, 0]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"translation": [-1.5, 3.25, 2]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
