@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Desktop/vine",
-		"particle": "Desktop/vine"
+		"0": "block/vine",
+		"particle": "block/vine"
 	},
 	"elements": [
 		{
