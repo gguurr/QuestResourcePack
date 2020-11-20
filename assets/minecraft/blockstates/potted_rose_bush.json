@@ -1,0 +1,7 @@
+{
+  "__comment": "Designed by Juknum",
+  "multipart": [
+      {   "apply": { "model": "block/flower_pot" }},
+      {   "apply": { "model": "block/_rose_bush_top" }}
+  ]
+}
