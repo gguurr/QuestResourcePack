@@ -4,7 +4,7 @@
 		"0": "block/glowshroom0",
 		"1": "block/glowshroom1",
 		"2": "block/glowshroom2",
-		"particle": "block/glowshroom1"
+		"particle": "block/glowshroom2"
 	},
 	"elements": [
 		{
