@@ -5,7 +5,7 @@
   },
 
   "overrides": [
-      {"predicate": {"custom_model_data":1}, "model": "item/blacksmith/grindstone_circle_still"}
+      {"predicate": {"custom_model_data":1}, "model": "item/blacksmith/glowshroom"}
       ]
   }    
 }
