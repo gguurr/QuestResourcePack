@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/warped_fungus",
-		"1": "block/warped_fungus_top",
-		"2": "block/warped_fungus_bottom",
-		"particle": "block/warped_fungus"
+		"0": "block/glowshroom0",
+		"1": "block/glowshroom1",
+		"2": "block/glowshroom2",
+		"particle": "block/glowshroom1"
 	},
 	"elements": [
 		{
