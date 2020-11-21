@@ -2,9 +2,10 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:custom/item/soul_torch"
-  }.
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/blacksmith/glowshroom"},
-        ]
-    }    
+  },
+
+  "overrides": [
+      {"predicate": {"custom_model_data":1}, "model": "item/blacksmith/grindstone_circle_still"},
+      ]
+  }    
 }
