@@ -1,0 +1,106 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/warped_fungus",
+		"1": "block/warped_fungus_top",
+		"2": "block/warped_fungus_bottom",
+		"particle": "block/warped_fungus"
+	},
+	"elements": [
+		{
+			"from": [4.9896, 0.1968, 4.9896],
+			"to": [11.0104, 15.2488, 11.0104],
+			"rotation": {"angle": 0, "axis": "y", "origin": [29.0728, 24.28, 29.0728]},
+			"faces": {
+				"north": {"uv": [7, 11, 9, 16], "texture": "#0"},
+				"east": {"uv": [7, 11, 9, 16], "texture": "#0"},
+				"south": {"uv": [7, 11, 9, 16], "texture": "#0"},
+				"west": {"uv": [7, 11, 9, 16], "texture": "#0"},
+				"down": {"uv": [7, 13, 9, 15], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-5.5468, 15.2488, -5.5468],
+			"to": [21.5468, 25.7852, 21.5468],
+			"rotation": {"angle": 0, "axis": "y", "origin": [18.5364, 39.332, 18.5364]},
+			"faces": {
+				"north": {"uv": [3.5, 7.5, 12.5, 11], "texture": "#0"},
+				"east": {"uv": [12.5, 7.5, 3.5, 11], "texture": "#0"},
+				"south": {"uv": [3.5, 7.5, 12.5, 11], "texture": "#0"},
+				"west": {"uv": [12.5, 7.5, 3.5, 11], "texture": "#0"},
+				"up": {"uv": [3.5, 3.5, 12.5, 12.5], "texture": "#1"},
+				"down": {"uv": [3.5, 3.5, 12.5, 12.5], "texture": "#2"}
+			}
+		},
+		{
+			"from": [-2.5364, 25.7852, -2.5364],
+			"to": [18.5364, 27.2904, 18.5364],
+			"rotation": {"angle": 0, "axis": "y", "origin": [21.5468, 49.8684, 22.2994]},
+			"faces": {
+				"north": {"uv": [4.5, 7, 11.5, 7.5], "texture": "#0"},
+				"east": {"uv": [11.5, 7, 4.5, 7.5], "texture": "#0"},
+				"south": {"uv": [4.5, 7, 11.5, 7.5], "texture": "#0"},
+				"west": {"uv": [11.5, 7, 4.5, 7.5], "texture": "#0"},
+				"up": {"uv": [4.5, 4.5, 11.5, 11.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-7.052, 16.754, -7.052],
+			"to": [23.052, 24.28, 23.052],
+			"rotation": {"angle": 0, "axis": "y", "origin": [17.0312, 40.8372, 17.7838]},
+			"faces": {
+				"north": {"uv": [3, 8, 13, 10.5], "texture": "#0"},
+				"east": {"uv": [13, 8, 3, 10.5], "texture": "#0"},
+				"south": {"uv": [3, 8, 13, 10.5], "texture": "#0"},
+				"west": {"uv": [13, 8, 3, 10.5], "texture": "#0"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#1"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.33, 0.33, 0.33]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.33, 0.33, 0.33]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"translation": [0, -2.25, 0],
+			"scale": [0.38, 0.38, 1]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -22.25, -0.5],
+			"scale": [2.56, 2.56, 2.56]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -2.5, 0],
+			"scale": [0.38, 0.38, 0.38]
+		}
+	},
+	"groups": [
+		{
+			"name": "warped_fungus",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3]
+		}
+	]
+}
