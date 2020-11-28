@@ -5,16 +5,7 @@
   },
 
   "overrides": [
-      {"predicate": {"custom_model_data":1}, "model": "item/archaeologist/chalice"},
-      {"predicate": {"custom_model_data":2}, "model": "item/archaeologist/cross"},
-      {"predicate": {"custom_model_data":3}, "model": "item/archaeologist/crown"},
-      {"predicate": {"custom_model_data":4}, "model": "item/archaeologist/diadem"},  
-      {"predicate": {"custom_model_data":5}, "model": "item/archaeologist/orb"},
-      {"predicate": {"custom_model_data":6}, "model": "item/archaeologist/statue"},
-      {"predicate": {"custom_model_data":7}, "model": "item/archaeologist/tablet"}, 
-      {"predicate": {"custom_model_data":8}, "model": "item/archaeologist/tome"},  
-      {"predicate": {"custom_model_data":9}, "model": "item/archaeologist/skull"},
-      {"predicate": {"custom_model_data":10}, "model": "item/archaeologist/skullgold"}
+      {"predicate": {"custom_model_data":1}, "model": "item/overworld/direction_sign"}
       ]
   }    
 }
