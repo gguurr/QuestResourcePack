@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/stripped_oak_log",
-		"particle": "block/stripped_jungle_log"
+		"2": "spoon/spoon"
 	},
 	"elements": [
 		{
