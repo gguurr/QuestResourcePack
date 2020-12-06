@@ -9,7 +9,7 @@
       {"predicate": {"custom_model_data":2}, "model": "item/alchemist/eyeball"},
       {"predicate": {"custom_model_data":3}, "model": "item/alchemist/tooth"},
       {"predicate": {"custom_model_data":4}, "model": "item/alchemist/mortar"},
-      {"predicate": {"custom_model_data":5}, "model": "item/alchemist/pestal"},
+      {"predicate": {"custom_model_data":5}, "model": "item/alchemist/pestle"},
       {"predicate": {"custom_model_data":6}, "model": "item/alchemist/mortarandpestle"}
       ]
   }    
