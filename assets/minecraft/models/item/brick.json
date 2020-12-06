@@ -5,7 +5,9 @@
   },
 
   "overrides": [
-      {"predicate": {"custom_model_data":1}, "model": "item/overworld/direction_sign"}
+      {"predicate": {"custom_model_data":1}, "model": "item/overworld/direction_sign"},
+      {"predicate": {"custom_model_data":1}, "model": "item/overworld/waypoint1"},
+      {"predicate": {"custom_model_data":1}, "model": "item/overworld/waypoint2"}
       ]
   }    
 }
