@@ -1,0 +1,132 @@
+{
+  "file_name": "rightforearm",
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "layer0": "modelengine:entity/arcticwolf"
+  },
+  "elements": [
+    {
+      "name": "rightforearm_0",
+      "from": [
+        7.64,
+        6.0199995,
+        7.2200003
+      ],
+      "to": [
+        8.84,
+        8.719999,
+        8.48
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            7.0,
+            10.25,
+            7.5,
+            10.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            6.0,
+            10.75,
+            6.5,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            6.5,
+            10.75,
+            7.0,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10.75,
+            8.0,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            7.0,
+            10.75,
+            6.5,
+            10.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.0,
+            10.75,
+            7.5,
+            11.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        -6.4,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}
