@@ -8,12 +8,12 @@
       {"predicate": {"custom_model_data":1}, "model": "item/overworld/direction_sign"},
       {"predicate": {"custom_model_data":2}, "model": "item/overworld/waypoint1"},
       {"predicate": {"custom_model_data":3}, "model": "item/overworld/waypoint2"},
-      {"predicate": {"custom_model_data":5}, "model": "item/overworld/airchest"},    
-      {"predicate": {"custom_model_data":6}, "model": "item/overworld/airmallet"},    
-      {"predicate": {"custom_model_data":7}, "model": "item/overworld/bottles"},    
-      {"predicate": {"custom_model_data":8}, "model": "item/overworld/dragon_staff"},    
-      {"predicate": {"custom_model_data":9}, "model": "item/overworld/handaxe"},    
-      {"predicate": {"custom_model_data":10}, "model": "item/overworld/waterchest"}
+      {"predicate": {"custom_model_data":4}, "model": "item/overworld/airchest"},    
+      {"predicate": {"custom_model_data":5}, "model": "item/overworld/airmallet"},    
+      {"predicate": {"custom_model_data":6}, "model": "item/overworld/bottles"},    
+      {"predicate": {"custom_model_data":7}, "model": "item/overworld/dragon_staff"},    
+      {"predicate": {"custom_model_data":8}, "model": "item/overworld/handaxe"},    
+      {"predicate": {"custom_model_data":9}, "model": "item/overworld/waterchest"}
       ]
   }    
 }
