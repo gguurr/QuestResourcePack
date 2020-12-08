@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "For Kal/bottles",
-		"particle": "For Kal/bottles"
+		"0": "block/bottles",
+		"particle": "block/bottles"
 	},
 	"elements": [
 		{
