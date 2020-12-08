@@ -11,7 +11,17 @@
       {"predicate": {"custom_model_data":4}, "model": "item/alchemist/mortar"},
       {"predicate": {"custom_model_data":5}, "model": "item/alchemist/pestle"},
       {"predicate": {"custom_model_data":6}, "model": "item/alchemist/mortarandpestle"},
-      {"predicate": {"custom_model_data":6}, "model": "item/alchemist/bone"}
+      {"predicate": {"custom_model_data":7}, "model": "item/alchemist/blood"},
+      {"predicate": {"custom_model_data":8}, "model": "item/alchemist/brain"},
+      {"predicate": {"custom_model_data":9}, "model": "item/alchemist/bone"},
+      {"predicate": {"custom_model_data":10}, "model": "item/alchemist/eggs"},
+      {"predicate": {"custom_model_data":11}, "model": "item/alchemist/flesh"},
+      {"predicate": {"custom_model_data":12}, "model": "item/alchemist/heart"},
+      {"predicate": {"custom_model_data":13}, "model": "item/alchemist/tears"},
+      {"predicate": {"custom_model_data":14}, "model": "item/alchemist/toe"},
+      {"predicate": {"custom_model_data":14}, "model": "item/alchemist/sage"},
+      {"predicate": {"custom_model_data":14}, "model": "item/alchemist/muskmallow"},
+      {"predicate": {"custom_model_data":14}, "model": "item/alchemist/wolfsbane"}
       ]
   }    
 }
