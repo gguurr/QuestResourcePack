@@ -328,8 +328,8 @@
 			"scale": [0.76, 0.76, 0.76]
 		},
 		"fixed": {
-			"rotation": [0, 140, 0],
-			"translation": [0, 3.5, 0]
+			"rotation": [-90, 140, 0],
+			"translation": [0, 0.25, -7.5]
 		}
 	},
 	"groups": [0,
