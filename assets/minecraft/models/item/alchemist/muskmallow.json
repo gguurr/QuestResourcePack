@@ -822,7 +822,7 @@
 		},
 		"thirdperson_lefthand": {
 			"rotation": [60, 23, 0],
-			"translation": [0, 0.75, 1],
+			"translation": [0, 1.5, 1.5],
 			"scale": [0.19, 0.19, 0.19]
 		},
 		"firstperson_righthand": {
