@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [600, 600],
 	"textures": {
-		"0": "Minecraft/masonpic",
-		"particle": "Minecraft/masonpic"
+		"0": "letters/masonpic",
+		"particle": "letters/masonpic"
 	},
 	"elements": [
 		{
