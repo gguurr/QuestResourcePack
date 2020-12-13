@@ -1,0 +1,20 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/wheat"
+    },
+  
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/skilltree/straight"},
+        {"predicate": {"custom_model_data":2}, "model": "item/skilltree/down"},
+        {"predicate": {"custom_model_data":3}, "model": "item/skilltree/tee"},
+        {"predicate": {"custom_model_data":4}, "model": "item/skilltree/leftcorner"},    
+        {"predicate": {"custom_model_data":5}, "model": "item/skilltree/rightcorner"},    
+        {"predicate": {"custom_model_data":6}, "model": "item/skilltree/upctrl"},    
+        {"predicate": {"custom_model_data":7}, "model": "item/skilltree/downctrl"},    
+        {"predicate": {"custom_model_data":8}, "model": "item/skilltree/leftctrl"},    
+        {"predicate": {"custom_model_data":9}, "model": "item/skilltree/rightctrl"}
+        ]
+    }    
+  }
+  
