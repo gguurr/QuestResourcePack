@@ -60,7 +60,8 @@
       {"predicate": {"custom_model_data":53}, "model": "item/fonts/confirm"},
       {"predicate": {"custom_model_data":54}, "model": "item/fonts/cancel"},
       {"predicate": {"custom_model_data":55}, "model": "item/fonts/backspace"},
-      {"predicate": {"custom_model_data":56}, "model": "item/fonts/space"}
+      {"predicate": {"custom_model_data":56}, "model": "item/fonts/space"},
+      {"predicate": {"custom_model_data":57}, "model": "item/fonts/space"},
       ]
   }    
 }
