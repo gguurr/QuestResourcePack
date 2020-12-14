@@ -110,7 +110,7 @@
       {"predicate": {"custom_model_data":103}, "model": "item/fonts/scroll/left/ls_lowerX"},
       {"predicate": {"custom_model_data":104}, "model": "item/fonts/scroll/left/ls_lowerY"},
       {"predicate": {"custom_model_data":105}, "model": "item/fonts/scroll/left/ls_lowerZ"},
-      {"predicate": {"custom_model_data":106}, "model": "item/fonts/scroll/left/ls_blank"},
+      {"predicate": {"custom_model_data":106}, "model": "item/fonts/scroll/left/ls_Blank"},
       {"predicate": {"custom_model_data":107}, "model": "item/fonts/scroll/right/rs_A"},
       {"predicate": {"custom_model_data":108}, "model": "item/fonts/scroll/right/rs_B"},
       {"predicate": {"custom_model_data":109}, "model": "item/fonts/scroll/right/rs_C"},
@@ -163,7 +163,7 @@
       {"predicate": {"custom_model_data":156}, "model": "item/fonts/scroll/right/rs_lowerX"},
       {"predicate": {"custom_model_data":157}, "model": "item/fonts/scroll/right/rs_lowerY"},
       {"predicate": {"custom_model_data":158}, "model": "item/fonts/scroll/right/rs_lowerZ"},
-      {"predicate": {"custom_model_data":159}, "model": "item/fonts/scroll/right/rs_blank"}
+      {"predicate": {"custom_model_data":159}, "model": "item/fonts/scroll/right/rs_BLANK"}
       ]
   }
 }
