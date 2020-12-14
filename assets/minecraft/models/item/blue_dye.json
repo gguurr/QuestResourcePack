@@ -63,7 +63,10 @@
       {"predicate": {"custom_model_data":56}, "model": "item/fonts/Button/buttonCancel"},
       {"predicate": {"custom_model_data":57}, "model": "item/fonts/Button/buttonBackSpace"},
       {"predicate": {"custom_model_data":58}, "model": "item/fonts/Button/buttonBlank"},
-      {"predicate": {"custom_model_data":59}, "model": "item/fonts/Button/buttonConfirm"}
+      {"predicate": {"custom_model_data":59}, "model": "item/fonts/Button/buttonSpace1"},
+      {"predicate": {"custom_model_data":60}, "model": "item/fonts/Button/buttonSpace2"},
+      {"predicate": {"custom_model_data":61}, "model": "item/fonts/Button/buttonSpace3"},
+      {"predicate": {"custom_model_data":62}, "model": "item/fonts/Button/buttonConfirm"}
       ]
   }
 }
