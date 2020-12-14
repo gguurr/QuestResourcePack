@@ -26,7 +26,8 @@
       {"predicate": {"custom_model_data":19}, "model": "item/alchemist/birthroot"},
       {"predicate": {"custom_model_data":20}, "model": "item/alchemist/snapdragon"},    
       {"predicate": {"custom_model_data":21}, "model": "item/alchemist/daylily"},  
-      {"predicate": {"custom_model_data":22}, "model": "item/alchemist/nightshade"}
+      {"predicate": {"custom_model_data":22}, "model": "item/alchemist/nightshade"},
+      {"predicate": {"custom_model_data":22}, "model": "item/alchemist/dittany"}
       ]
   }    
 }
