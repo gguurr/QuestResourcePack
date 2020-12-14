@@ -65,5 +65,4 @@
       {"predicate": {"custom_model_data":58}, "model": "item/fonts/Button/buttonBlank"},
       {"predicate": {"custom_model_data":59}, "model": "item/fonts/Button/buttonConfirm"}
       ]
-  }    
-}
+  }
