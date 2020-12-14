@@ -8,8 +8,8 @@ jobs:
       uses: actions/checkout@v2
     - name: pull latest and remove old file from repo
       run: |
-        git config --global user.name "fishermedders"
-        git config --global user.email "fishermedders@gmail.com"
+        git config --global user.name "TexturePackBuilder"
+        git config --global user.email "kennedyalbertsmith@gmail.com"
         git config pull.rebase false
         git pull
         rm -f release.zip
