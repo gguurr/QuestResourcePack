@@ -69,6 +69,5 @@
         {"predicate": {"custom_model_data":61}, "model": "item/blacksmith/iron_axe"},
         {"predicate": {"custom_model_data":62}, "model": "item/blacksmith/iron_hoe"},
         {"predicate": {"custom_model_data":63}, "model": "item/blacksmith/iron_shovel"}
-        ]
-    }    
+        ]  
 }
