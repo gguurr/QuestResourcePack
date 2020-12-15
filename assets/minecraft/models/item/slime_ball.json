@@ -29,9 +29,6 @@
       {"predicate": {"custom_model_data":22}, "model": "item/alchemist/nightshade"},
       {"predicate": {"custom_model_data":23}, "model": "item/alchemist/dittany"},
       {"predicate": {"custom_model_data":24}, "model": "item/alchemist/black_crushed"},
-      {"predicate": {"custom_model_data":25}, "model": "item/alchemist/blue_crushed"},
+      {"predicate": {"custom_model_data":25}, "model": "item/alchemist/blue_crushed"}
       ]
-  }    
-}
-
 }
