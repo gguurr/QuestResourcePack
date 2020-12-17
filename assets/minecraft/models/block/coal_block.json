@@ -1,0 +1,64 @@
+{
+    "__comment": "Hello there :)",
+    "parent": "block/block",
+    "textures": {
+        "particle": "block/coal_block_side",
+        "top": "block/coal_block_top",
+        "bottom": "block/coal_block_bottom",
+        "side": "block/coal_block_side",
+		"alt": "block/coal_block_alt",
+        "inner": "block/coal_block_inner"
+    },
+    "elements": [
+        {
+            "from": [ 0, 0, 0 ], 
+            "to": [ 16, 16, 16 ], 
+            "faces": {
+                "north": { "texture": "#side", "uv":   [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#side", "uv":   [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#side", "uv":  [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#side", "uv":   [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#bottom", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "from": [ 14.5, 16, 14.5 ], 
+            "to": [ 1.5, 14, 1.5 ], 
+            "faces": {
+                "up": { "texture": "#inner", "uv": 	  [ 1.5, 2, 14.5, 15 ] },                
+				"north": { "texture": "#inner", "uv": [ 1.5, 0, 14.5, 2  ], "rotation": 180 },
+                "east": { "texture": "#inner", "uv":  [ 1.5, 0, 14.5, 2  ], "rotation": 180 },
+                "south": { "texture": "#inner", "uv": [ 1.5, 0, 14.5, 2  ], "rotation": 180 },
+                "west": { "texture": "#inner", "uv":  [ 1.5, 0, 14.5, 2  ], "rotation": 180 }
+            }
+        },
+        {
+            "from": [ 0, 16, 0 ], 
+            "to": [ 1.5, 16, 16 ], 
+            "faces": {
+                "up": { "texture": "#top", "uv": [ 0, 0, 1.5, 16 ] }
+            }
+        },
+		{
+            "from": [ 14.5, 16, 0 ], 
+            "to": [ 16, 16, 16 ], 
+            "faces": {
+                "up": { "texture": "#top", "uv": [ 14.51, 0, 16, 16 ] }
+            }
+        },
+		{
+            "from": [ 1.5, 16, 0 ], 
+            "to": [ 14.5, 16, 1.5 ], 
+            "faces": {
+                "up": { "texture": "#top", "uv": [ 1.5, 0, 14.5, 1.5 ] }
+            }
+        },
+		{
+            "from": [ 1.5, 16, 14.5 ], 
+            "to": [ 14.5, 16, 16 ], 
+            "faces": {
+                "up": { "texture": "#top", "uv": [ 1.5, 14.51, 14.5, 16 ] }
+            }
+        }
+    ]
+}
