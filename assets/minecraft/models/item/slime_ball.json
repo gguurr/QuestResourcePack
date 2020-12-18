@@ -28,7 +28,16 @@
       {"predicate": {"custom_model_data":21}, "model": "item/alchemist/daylily"},  
       {"predicate": {"custom_model_data":22}, "model": "item/alchemist/nightshade"},
       {"predicate": {"custom_model_data":23}, "model": "item/alchemist/dittany"},
-      {"predicate": {"custom_model_data":24}, "model": "item/alchemist/black_crushed"},
-      {"predicate": {"custom_model_data":25}, "model": "item/alchemist/blue_crushed"}
+      {"predicate": {"custom_model_data":24}, "model": "item/alchemist/safflower"},
+      {"predicate": {"custom_model_data":25}, "model": "item/alchemist/sage_crushed"},
+      {"predicate": {"custom_model_data":26}, "model": "item/alchemist/muskmallow_crushed"},
+      {"predicate": {"custom_model_data":27}, "model": "item/alchemist/wolfsbane_crushed"},
+      {"predicate": {"custom_model_data":28}, "model": "item/alchemist/belladona_crushed"},    
+      {"predicate": {"custom_model_data":29}, "model": "item/alchemist/birthroot_crushed"},    
+      {"predicate": {"custom_model_data":30}, "model": "item/alchemist/snapdragon_crushed"},    
+      {"predicate": {"custom_model_data":31}, "model": "item/alchemist/daylily_crushed"},
+      {"predicate": {"custom_model_data":32}, "model": "item/alchemist/nightshade_crushed"},    
+      {"predicate": {"custom_model_data":33}, "model": "item/alchemist/dittany_crushed"},    
+      {"predicate": {"custom_model_data":34}, "model": "item/alchemist/safflower_crushed"}    
       ]
 }
