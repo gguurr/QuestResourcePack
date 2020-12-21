@@ -1,0 +1,7 @@
+{
+    "__comment": "Designed by Juknum",
+    "multipart": [
+        {   "apply": { "model": "block/bamboo" }},
+        {   "apply": { "model": "block/potted_bamboo" }}
+    ]
+}
