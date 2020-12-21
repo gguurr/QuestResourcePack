@@ -1,7 +1,7 @@
 {
     "__comment": "Designed by Juknum",
     "multipart": [
-        {   "apply": { "model": "block/cactus" }},
+        {   "apply": { "model": "block/flower_pot" }},
         {   "apply": { "model": "block/potted_cactus" }}
     ]
 }
