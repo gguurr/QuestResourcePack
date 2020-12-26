@@ -13,7 +13,10 @@
         {"predicate": {"custom_model_data":6}, "model": "item/skilltree/upctrl"},    
         {"predicate": {"custom_model_data":7}, "model": "item/skilltree/downctrl"},    
         {"predicate": {"custom_model_data":8}, "model": "item/skilltree/leftctrl"},    
-        {"predicate": {"custom_model_data":9}, "model": "item/skilltree/rightctrl"}
+        {"predicate": {"custom_model_data":9}, "model": "item/skilltree/rightctrl"},
+        {"predicate": {"custom_model_data":10}, "model": "item/skilltree/edit"},       
+        {"predicate": {"custom_model_data":11}, "model": "item/skilltree/add"},        
+        {"predicate": {"custom_model_data":12}, "model": "item/skilltree/folder"},        
         ]
     }    
   }
