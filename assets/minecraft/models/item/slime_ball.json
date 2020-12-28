@@ -38,6 +38,8 @@
       {"predicate": {"custom_model_data":31}, "model": "item/alchemist/daylily_crushed"},
       {"predicate": {"custom_model_data":32}, "model": "item/alchemist/nightshade_crushed"},    
       {"predicate": {"custom_model_data":33}, "model": "item/alchemist/dittany_crushed"},    
-      {"predicate": {"custom_model_data":34}, "model": "item/alchemist/safflower_crushed"}    
+      {"predicate": {"custom_model_data":34}, "model": "item/alchemist/safflower_crushed"}, 
+      {"predicate": {"custom_model_data":35}, "model": "item/alchemist/trimmers"},     
+      {"predicate": {"custom_model_data":36}, "model": "item/alchemist/trimmers2"}     
       ]
 }
