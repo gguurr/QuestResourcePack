@@ -1,10 +1,11 @@
 {
-	"__comment": "Designed by Nekzuris",
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
+		"2": "block/barrel_side",
 		"base": "block/brewing_stand_base",
-		"texture": "block/brewing_stand",
-		"particle": "block/brewing_stand"
+		"particle": "block/brewing_stand",
+		"texture": "block/brewing_stand"
 	},
 	"elements": [
 		{
@@ -23,10 +24,10 @@
 			"from": [7, 0, 7],
 			"to": [9, 14, 9],
 			"faces": {
-				"north": {"uv": [7, 2, 9, 16], "texture": "#texture"},
-				"east": {"uv": [7, 2, 9, 16], "texture": "#texture"},
-				"south": {"uv": [7, 2, 9, 16], "texture": "#texture"},
-				"west": {"uv": [7, 2, 9, 16], "texture": "#texture"},
+				"north": {"uv": [2.5, 2, 4.5, 16], "texture": "#2"},
+				"east": {"uv": [2.5, 2, 4.5, 16], "texture": "#2"},
+				"south": {"uv": [2.5, 2, 4.5, 16], "texture": "#2"},
+				"west": {"uv": [2.5, 2, 4.5, 16], "texture": "#2"},
 				"up": {"uv": [7, 7, 9, 9], "texture": "#texture"},
 				"down": {"uv": [7, 14, 9, 16], "texture": "#texture", "cullface": "down"}
 			}
