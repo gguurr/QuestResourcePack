@@ -5,11 +5,11 @@
   },
 
   "overrides": [
-      {"predicate": {"custom_model_data":1}, "model": "item/mill/breadpaddle"},
-      {"predicate": {"custom_model_data":2}, "model": "item/mill/graingrinder"},
-      {"predicate": {"custom_model_data":3}, "model": "item/mill/graingrinder_on"},
-      {"predicate": {"custom_model_data":4}, "model": "item/mill/kneedingbowl"},
-      {"predicate": {"custom_model_data":5}, "model": "item/mill/grainscythe"},    
+      {"predicate": {"custom_model_data":1}, "model": "item/mill/bread_paddle"},
+      {"predicate": {"custom_model_data":2}, "model": "item/mill/grain_grinder"},
+      {"predicate": {"custom_model_data":3}, "model": "item/mill/grain_grinder_on"},
+      {"predicate": {"custom_model_data":4}, "model": "item/mill/kneeding_bowl"},
+      {"predicate": {"custom_model_data":5}, "model": "item/mill/grain_scythe"},    
       {"predicate": {"custom_model_data":6}, "model": "item/mill/wheat"}    
       ]  
 }
