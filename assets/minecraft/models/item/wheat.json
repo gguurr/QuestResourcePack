@@ -7,7 +7,7 @@
   "overrides": [
       {"predicate": {"custom_model_data":1}, "model": "item/mill/breadpaddle"},
       {"predicate": {"custom_model_data":2}, "model": "item/mill/graingrinder"},
-      {"predicate": {"custom_model_data":3}, "model": "item/mill/graingrinder_on"},
+      {"predicate": {"custom_model_data":3}, "model": "item/mill/graingrinder_on"}
 
       ]
   }    
