@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/oak_planks",
-		"particle": "oak_planks"
+		"particle": "block/oak_planks"
 	},
 	"elements": [
 		{
@@ -2242,6 +2242,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 3, 1],
@@ -2266,6 +2267,7 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
+			"rotation": [17, -19, -18],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
