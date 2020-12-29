@@ -1,14 +1,11 @@
 {
-	"credit": "Made with Blockbench by Juknum",
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
 		"bottom": "block/cactus_bottom",
 		"top": "block/cactus_top",
-		"side": "block/cactus_side",
-		"particle": "block/flower_pot",
-		"2_flowerpot": "block/flower_pot",
-		"2_dirt": "block/dirt"
+		"side": "block/cactus_side"
 	},
 	"elements": [
 		{
@@ -3849,146 +3846,6 @@
 				"up": {"uv": [14.5, 11, 15, 11.5], "rotation": 90, "texture": "#side"},
 				"down": {"uv": [14.5, 11, 15, 11.5], "rotation": 270, "texture": "#side"}
 			}
-		},
-		{
-			"from": [5, 0, 5],
-			"to": [6, 4.5, 11],
-			"faces": {
-				"north": {"uv": [10, 11.5, 11, 16], "texture": "#2_flowerpot"},
-				"east": {"uv": [6, 11.5, 10, 16], "texture": "#2_flowerpot"},
-				"south": {"uv": [5, 11.5, 6, 16], "texture": "#2_flowerpot"},
-				"west": {"uv": [5, 11.5, 11, 16], "texture": "#2_flowerpot"},
-				"up": {"uv": [5, 5, 6, 11], "texture": "#2_flowerpot"},
-				"down": {"uv": [5, 5, 6, 11], "texture": "#2_flowerpot", "cullface": "down"}
-			}
-		},
-		{
-			"from": [10, 0, 5],
-			"to": [11, 4.5, 11],
-			"faces": {
-				"north": {"uv": [5, 11.5, 6, 16], "texture": "#2_flowerpot"},
-				"east": {"uv": [5, 11.5, 11, 16], "texture": "#2_flowerpot"},
-				"south": {"uv": [10, 11.5, 11, 16], "texture": "#2_flowerpot"},
-				"west": {"uv": [6, 11.5, 10, 16], "texture": "#2_flowerpot"},
-				"up": {"uv": [10, 5, 11, 11], "texture": "#2_flowerpot"},
-				"down": {"uv": [10, 5, 11, 11], "texture": "#2_flowerpot", "cullface": "down"}
-			}
-		},
-		{
-			"from": [6, 0, 5],
-			"to": [10, 4.5, 6],
-			"faces": {
-				"north": {"uv": [6, 11.5, 10, 16], "texture": "#2_flowerpot"},
-				"south": {"uv": [6, 11.5, 10, 16], "texture": "#2_flowerpot"},
-				"up": {"uv": [6, 5, 10, 6], "texture": "#2_flowerpot"},
-				"down": {"uv": [6, 10, 10, 11], "texture": "#2_flowerpot", "cullface": "down"}
-			}
-		},
-		{
-			"from": [6, 0, 10],
-			"to": [10, 4.5, 11],
-			"faces": {
-				"north": {"uv": [6, 11.5, 10, 16], "texture": "#2_flowerpot"},
-				"south": {"uv": [6, 11.5, 10, 16], "texture": "#2_flowerpot"},
-				"up": {"uv": [6, 10, 10, 11], "texture": "#2_flowerpot"},
-				"down": {"uv": [6, 5, 10, 6], "texture": "#2_flowerpot", "cullface": "down"}
-			}
-		},
-		{
-			"from": [6, 0, 6],
-			"to": [10, 4, 10],
-			"faces": {
-				"up": {"uv": [6, 6, 10, 10], "texture": "#2_dirt"},
-				"down": {"uv": [6, 12, 10, 16], "texture": "#2_flowerpot", "cullface": "down"}
-			}
-		},
-		{
-			"from": [5, 5, 5],
-			"to": [11, 6, 6],
-			"rotation": {"angle": 0, "axis": "y", "origin": [13, 12.5, 13]},
-			"faces": {
-				"north": {"uv": [5, 10.5, 11, 11.5], "texture": "#2_flowerpot"},
-				"east": {"uv": [10, 10.5, 11, 11.5], "texture": "#2_flowerpot"},
-				"south": {"uv": [5, 10, 11, 11], "texture": "#2_flowerpot"},
-				"west": {"uv": [5, 10.5, 6, 11.5], "texture": "#2_flowerpot"},
-				"up": {"uv": [5, 10, 11, 11], "texture": "#2_flowerpot"},
-				"down": {"uv": [5, 11, 11, 12], "texture": "#2_flowerpot"}
-			}
-		},
-		{
-			"from": [6, 5, 10],
-			"to": [11, 6, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [13, 12.5, 18]},
-			"faces": {
-				"north": {"uv": [5, 10, 11, 11], "texture": "#2_flowerpot"},
-				"east": {"uv": [5, 10.5, 6, 11.5], "texture": "#2_flowerpot"},
-				"south": {"uv": [6, 10.5, 11, 11.5], "texture": "#2_flowerpot"},
-				"up": {"uv": [5, 10, 11, 11], "texture": "#2_flowerpot"},
-				"down": {"uv": [5, 11, 11, 12], "texture": "#2_flowerpot"}
-			}
-		},
-		{
-			"from": [5, 5, 6],
-			"to": [6, 6, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [13, 12.5, 4]},
-			"faces": {
-				"east": {"uv": [5, 10, 10, 11], "texture": "#2_flowerpot"},
-				"south": {"uv": [5, 10.5, 6, 11.5], "texture": "#2_flowerpot"},
-				"west": {"uv": [6, 10.5, 11, 11.5], "texture": "#2_flowerpot"},
-				"up": {"uv": [5, 10, 11, 11], "rotation": 270, "texture": "#2_flowerpot"},
-				"down": {"uv": [5, 11, 11, 12], "rotation": 90, "texture": "#2_flowerpot"}
-			}
-		},
-		{
-			"from": [10, 5, 6],
-			"to": [11, 6, 10],
-			"rotation": {"angle": 0, "axis": "y", "origin": [18, 12.5, 4]},
-			"faces": {
-				"east": {"uv": [6, 10.5, 10, 11.5], "texture": "#2_flowerpot"},
-				"west": {"uv": [6, 10, 11, 11], "texture": "#2_flowerpot"},
-				"up": {"uv": [6, 10, 10, 11], "rotation": 270, "texture": "#2_flowerpot"},
-				"down": {"uv": [5, 11, 11, 12], "rotation": 90, "texture": "#2_flowerpot"}
-			}
-		},
-		{
-			"from": [5.5, 4.5, 5.5],
-			"to": [6, 5, 10.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [13, 12.5, 13]},
-			"faces": {
-				"north": {"uv": [5.5, 11.5, 6, 12], "texture": "#2_flowerpot"},
-				"east": {"uv": [5.5, 11, 10.5, 11.5], "texture": "#2_flowerpot"},
-				"south": {"uv": [5.5, 11.5, 6, 12], "texture": "#2_flowerpot"},
-				"west": {"uv": [5.5, 11.5, 10.5, 12], "texture": "#2_flowerpot"}
-			}
-		},
-		{
-			"from": [6, 4.5, 10],
-			"to": [10.5, 5, 10.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [13, 12.5, 3]},
-			"faces": {
-				"north": {"uv": [5.5, 11, 10, 11.5], "texture": "#2_flowerpot"},
-				"east": {"uv": [5, 11.5, 5.5, 12], "texture": "#2_flowerpot"},
-				"south": {"uv": [6, 11.5, 10, 12], "texture": "#2_flowerpot"}
-			}
-		},
-		{
-			"from": [10, 4.5, 5.5],
-			"to": [10.5, 5, 10],
-			"rotation": {"angle": 0, "axis": "y", "origin": [3, 12.5, 3]},
-			"faces": {
-				"north": {"uv": [5.5, 11.5, 6, 12], "texture": "#2_flowerpot"},
-				"east": {"uv": [5.5, 11.5, 10.5, 12], "texture": "#2_flowerpot"},
-				"west": {"uv": [5.5, 11, 10, 11.5], "texture": "#2_flowerpot"}
-			}
-		},
-		{
-			"from": [6, 4.5, 5.5],
-			"to": [10, 5, 6],
-			"rotation": {"angle": 0, "axis": "y", "origin": [13, 12.5, -1.5]},
-			"faces": {
-				"north": {"uv": [6, 11.5, 10, 12], "texture": "#2_flowerpot"},
-				"south": {"uv": [6, 11, 10, 11.5], "texture": "#2_flowerpot"}
-			}
 		}
 	],
 	"display": {
@@ -4039,11 +3896,6 @@
 			"name": "cactus",
 			"origin": [8, 8, 8],
 			"children": [212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306]
-		},
-		{
-			"name": "flower_pot",
-			"origin": [8, 8, 8],
-			"children": [307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319]
 		}
 	]
 }
