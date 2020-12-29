@@ -7,8 +7,9 @@
   "overrides": [
       {"predicate": {"custom_model_data":1}, "model": "item/mill/breadpaddle"},
       {"predicate": {"custom_model_data":2}, "model": "item/mill/graingrinder"},
-      {"predicate": {"custom_model_data":3}, "model": "item/mill/graingrinder_on"}
-
-      ]
-  }    
+      {"predicate": {"custom_model_data":3}, "model": "item/mill/graingrinder_on"},
+      {"predicate": {"custom_model_data":4}, "model": "item/mill/kneedingbowl"},
+      {"predicate": {"custom_model_data":5}, "model": "item/mill/grainscythe"},    
+      {"predicate": {"custom_model_data":6}, "model": "item/mill/wheat"}    
+      ]  
 }
