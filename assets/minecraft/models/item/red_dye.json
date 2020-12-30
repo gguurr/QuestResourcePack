@@ -17,9 +17,9 @@
         {"predicate": {"custom_model_data":10}, "model": "item/skilltree/edit"},       
         {"predicate": {"custom_model_data":11}, "model": "item/skilltree/add"},        
         {"predicate": {"custom_model_data":12}, "model": "item/skilltree/folder"},
-        {"predicate": {"custom_model_data":12}, "model": "item/CharacterSelectGUI/orchead"},      
-        {"predicate": {"custom_model_data":12}, "model": "item/CharacterSelectGUI/humanhead"},        
-        {"predicate": {"custom_model_data":12}, "model": "item/CharacterSelectGUI/elfhead"},        
-        {"predicate": {"custom_model_data":12}, "model": "item/CharacterSelectGUI/undead"}        
+        {"predicate": {"custom_model_data":13}, "model": "item/CharacterSelectGUI/orchead"},      
+        {"predicate": {"custom_model_data":14}, "model": "item/CharacterSelectGUI/humanhead"},        
+        {"predicate": {"custom_model_data":15}, "model": "item/CharacterSelectGUI/elfhead"},        
+        {"predicate": {"custom_model_data":16}, "model": "item/CharacterSelectGUI/undead"}        
         ]   
   }
