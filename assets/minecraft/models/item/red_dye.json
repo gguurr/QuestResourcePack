@@ -1,12 +1,11 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/emerald",
-		"particle": "item/emerald"
-    },
-  
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/guicons/1"},
+  "parent": "minecraft:item/red_dye",
+  "textures": {
+    "layer0": "minecraft:item/red_dye"
+  },
+
+  "overrides": [
+          {"predicate": {"custom_model_data":1}, "model": "item/guicons/1"},
         {"predicate": {"custom_model_data":2}, "model": "item/guicons/2"},
         {"predicate": {"custom_model_data":3}, "model": "item/guicons/3"},
         {"predicate": {"custom_model_data":4}, "model": "item/guicons/4"},    
@@ -57,6 +56,7 @@
         {"predicate": {"custom_model_data":49}, "model": "item/CharacterSelectGUI/orchead"},      
         {"predicate": {"custom_model_data":50}, "model": "item/CharacterSelectGUI/humanhead"},        
         {"predicate": {"custom_model_data":51}, "model": "item/CharacterSelectGUI/elfhead"},        
-        {"predicate": {"custom_model_data":52}, "model": "item/CharacterSelectGUI/undeadhead"}        
-        ]   
-  }
+        {"predicate": {"custom_model_data":52}, "model": "item/CharacterSelectGUI/undeadhead"}   
+      ]   
+}
+
