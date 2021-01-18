@@ -57,6 +57,7 @@
         {"predicate": {"custom_model_data":50}, "model": "item/CharacterSelectGUI/humanhead"},        
         {"predicate": {"custom_model_data":51}, "model": "item/CharacterSelectGUI/elfhead"},        
         {"predicate": {"custom_model_data":52}, "model": "item/CharacterSelectGUI/undeadhead"}   
-      ]   
+      ] 
+  }
 }
 
