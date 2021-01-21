@@ -1,0 +1,19 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/rabbit_hide"
+    },
+  
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/guicons/1"},
+        {"predicate": {"custom_model_data":2}, "model": "item/guicons/2"},
+        {"predicate": {"custom_model_data":2}, "model": "item/guicons/3"},
+        {"predicate": {"custom_model_data":2}, "model": "item/guicons/4"},
+        {"predicate": {"custom_model_data":2}, "model": "item/guicons/5"},
+        {"predicate": {"custom_model_data":2}, "model": "item/guicons/6"},
+        {"predicate": {"custom_model_data":2}, "model": "item/guicons/7"},
+        {"predicate": {"custom_model_data":2}, "model": "item/guicons/8"},
+        {"predicate": {"custom_model_data":2}, "model": "item/guicons/9"}       
+        ]   
+  }
+  
