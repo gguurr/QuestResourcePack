@@ -5,15 +5,21 @@
     },
   
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/guicons/1"},
-        {"predicate": {"custom_model_data":2}, "model": "item/guicons/2"},
-        {"predicate": {"custom_model_data":2}, "model": "item/guicons/3"},
-        {"predicate": {"custom_model_data":2}, "model": "item/guicons/4"},
-        {"predicate": {"custom_model_data":2}, "model": "item/guicons/5"},
-        {"predicate": {"custom_model_data":2}, "model": "item/guicons/6"},
-        {"predicate": {"custom_model_data":2}, "model": "item/guicons/7"},
-        {"predicate": {"custom_model_data":2}, "model": "item/guicons/8"},
-        {"predicate": {"custom_model_data":2}, "model": "item/guicons/9"}       
+        {"predicate": {"custom_model_data":1}, "model": "item/overworld/direction_sign"},
+        {"predicate": {"custom_model_data":2}, "model": "item/overworld/waypoint1"},
+        {"predicate": {"custom_model_data":3}, "model": "item/overworld/waypoint2"},
+        {"predicate": {"custom_model_data":4}, "model": "item/overworld/airchest"},    
+        {"predicate": {"custom_model_data":5}, "model": "item/overworld/airmallet"},    
+        {"predicate": {"custom_model_data":6}, "model": "item/overworld/bottles"},    
+        {"predicate": {"custom_model_data":7}, "model": "item/overworld/dragon_staff"},    
+        {"predicate": {"custom_model_data":8}, "model": "item/overworld/handaxe"},    
+        {"predicate": {"custom_model_data":9}, "model": "item/overworld/waterchest"},
+        {"predicate": {"custom_model_data":10}, "model": "item/overworld/fire_arrow"},
+        {"predicate": {"custom_model_data":11}, "model": "item/overworld/firesword"},
+        {"predicate": {"custom_model_data":12}, "model": "item/overworld/firestaff"},    
+        {"predicate": {"custom_model_data":13}, "model": "item/overworld/firebow"},
+        {"predicate": {"custom_model_data":14}, "model": "item/overworld/crimson_sword"},
+        {"predicate": {"custom_model_data":15}, "model": "item/keys/testkey"}    
         ]   
   }
   
