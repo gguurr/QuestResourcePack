@@ -6,6 +6,6 @@
   
     "overrides": [
         {"predicate": {"custom_model_data":1}, "model": "item/spells/iceberg"},
-        {"predicate": {"custom_model_data":1}, "model": "item/spells/refreshments"}        
+        {"predicate": {"custom_model_data":2}, "model": "item/spells/refreshments"}        
         ]
   }
