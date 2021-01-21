@@ -5,8 +5,8 @@
     },
   
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/overworld/direction_sign"},
-        {"predicate": {"custom_model_data":2}, "model": "item/overworld/waypoint1"},
+        {"predicate": {"custom_model_data":1}, "model": "item/guicons/up"},
+        {"predicate": {"custom_model_data":2}, "model": "item/guicons/down"},
         {"predicate": {"custom_model_data":3}, "model": "item/overworld/waypoint2"},
         {"predicate": {"custom_model_data":4}, "model": "item/overworld/airchest"},    
         {"predicate": {"custom_model_data":5}, "model": "item/overworld/airmallet"},    
