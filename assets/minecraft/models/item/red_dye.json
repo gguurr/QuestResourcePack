@@ -26,7 +26,7 @@
         {"predicate": {"custom_model_data":18}, "model": "item/schemy/plains-bridge"},
         {"predicate": {"custom_model_data":19}, "model": "item/schemy/forest"},
         {"predicate": {"custom_model_data":20}, "model": "item/schemy/forest-river"},
-        {"predicate": {"custom_model_data":21}, "model": "item/schemy/fores-road"},
+        {"predicate": {"custom_model_data":21}, "model": "item/schemy/forest-road"},
         {"predicate": {"custom_model_data":22}, "model": "item/schemy/forest-bridge"},
         {"predicate": {"custom_model_data":23}, "model": "item/schemy/beach"},
         {"predicate": {"custom_model_data":24}, "model": "item/schemy/ocean"},
