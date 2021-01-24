@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "Skill tree:block/guicon1",
-		"particle": "Skill tree:block/guicon1"
+		"0": "block/guicon1",
+		"particle": "block/guicon1"
 	},
 	"elements": [
 		{
@@ -11,7 +11,7 @@
 			"to": [24, 32, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 16]},
 			"faces": {
-				"north": {"uv": [8, 8.1, 9.6, 9.7], "texture": "#0"},
+				"north": {"uv": [8, 8.2, 9.6, 9.8], "texture": "#0"},
 				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
 				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
 				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
@@ -31,7 +31,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -90, 25],
-			"translation": [1.13, 3.2, 1.13],
+			"translation": [1.13, 3.2, 1.38],
 			"scale": [0.68, 0.68, 0.68]
 		},
 		"firstperson_lefthand": {

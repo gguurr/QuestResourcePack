@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "Skill tree:block/guicon1",
-		"particle": "Skill tree:block/guicon1"
+		"0": "block/guicon1",
+		"particle": "guicons:block/guicon1"
 	},
 	"elements": [
 		{
@@ -31,7 +31,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -90, 25],
-			"translation": [1.13, 3.2, 1.13],
+			"translation": [1.13, 3.2, 1.38],
 			"scale": [0.68, 0.68, 0.68]
 		},
 		"firstperson_lefthand": {
