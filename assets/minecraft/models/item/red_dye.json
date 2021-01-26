@@ -48,6 +48,7 @@
         {"predicate": {"custom_model_data":40}, "model": "item/schemy/save"},
         {"predicate": {"custom_model_data":41}, "model": "item/schemy/submit"},
         {"predicate": {"custom_model_data":42}, "model": "item/schemy/draftsfolder"},
-        {"predicate": {"custom_model_data":43}, "model": "item/schemy/submitsfolder"}
+        {"predicate": {"custom_model_data":43}, "model": "item/schemy/submitsfolder"},
+	{"predicate": {"custom_model_data":44}, "model": "item/schemy/back"}
         ]  
 }
