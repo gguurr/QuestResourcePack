@@ -51,6 +51,10 @@
         {"predicate": {"custom_model_data":43}, "model": "item/schemy/submitsfolder"},
 	{"predicate": {"custom_model_data":44}, "model": "item/schemy/back"},
 	{"predicate": {"custom_model_data":45}, "model": "item/schemy/before"},
-	{"predicate": {"custom_model_data":46}, "model": "item/schemy/after"}	    
+	{"predicate": {"custom_model_data":46}, "model": "item/schemy/after"},
+	{"predicate": {"custom_model_data":47}, "model": "item/CharacterSelect/elfhead"},	    
+	{"predicate": {"custom_model_data":48}, "model": "item/CharacterSelect/humanhead"},
+	{"predicate": {"custom_model_data":49}, "model": "item/CharacterSelect/orchead"},	    
+	{"predicate": {"custom_model_data":50}, "model": "item/CharacterSelect/undeadhead"},	    
         ]  
 }
