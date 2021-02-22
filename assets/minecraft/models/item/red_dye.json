@@ -49,6 +49,8 @@
         {"predicate": {"custom_model_data":41}, "model": "item/schemy/submit"},
         {"predicate": {"custom_model_data":42}, "model": "item/schemy/draftsfolder"},
         {"predicate": {"custom_model_data":43}, "model": "item/schemy/submitsfolder"},
-	{"predicate": {"custom_model_data":44}, "model": "item/schemy/back"}
+	{"predicate": {"custom_model_data":44}, "model": "item/schemy/back"},
+	{"predicate": {"custom_model_data":45}, "model": "item/schemy/before"},
+	{"predicate": {"custom_model_data":46}, "model": "item/schemy/after"}	    
         ]  
 }
