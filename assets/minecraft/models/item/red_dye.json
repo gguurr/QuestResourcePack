@@ -52,9 +52,9 @@
 	{"predicate": {"custom_model_data":44}, "model": "item/schemy/back"},
 	{"predicate": {"custom_model_data":45}, "model": "item/schemy/before"},
 	{"predicate": {"custom_model_data":46}, "model": "item/schemy/after"},
-	{"predicate": {"custom_model_data":47}, "model": "item/characterselect/elfhead"},
-	{"predicate": {"custom_model_data":48}, "model": "item/characterSelect/humanhead"},
-	{"predicate": {"custom_model_data":49}, "model": "item/characterSelect/orchead"},
-	{"predicate": {"custom_model_data":50}, "model": "item/characterSelect/undeadhead"}
+	{"predicate": {"custom_model_data":47}, "model": "item/mainmenu/elfhead"},
+	{"predicate": {"custom_model_data":48}, "model": "item/mainmenu/humanhead"},
+	{"predicate": {"custom_model_data":49}, "model": "item/mainmenu/orchead"},
+	{"predicate": {"custom_model_data":50}, "model": "item/mainmenu/undeadhead"}
         ]  
 }
