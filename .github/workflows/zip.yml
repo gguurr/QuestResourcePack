@@ -9,7 +9,7 @@ jobs:
     - name: pull latest and remove old file from repo
       run: |
         git config --global user.name "TexturePackBuilder"
-        git config --global user.email "kennedyalbertsmith@gmail.com"
+        git config --global user.email "admin@ethera.net"
         git config pull.rebase false
         git pull
         rm -f release.zip
