@@ -18,6 +18,7 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         filename: 'release.zip'
+        exclusions: debug.log README.md release.zip *.git*'
     - name: push changes to remote
       run: |
 
